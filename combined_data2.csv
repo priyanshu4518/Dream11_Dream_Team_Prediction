@@ -1,0 +1,2391 @@
+file_path,team1,team2,date
+dt\csv1\64814.csv,New Zealand,India,2002-12-29
+dt\csv1\64815.csv,India,New Zealand,2003-01-01
+dt\csv1\64816.csv,India,New Zealand,2003-01-04
+dt\csv1\64817.csv,New Zealand,India,2003-01-08
+dt\csv1\64819.csv,India,New Zealand,2003-01-14
+dt\csv1\64820.csv,Australia,West Indies,2003-05-17
+dt\csv1\64825.csv,Australia,West Indies,2003-05-30
+dt\csv1\64826.csv,Australia,West Indies,2003-06-01
+dt\csv1\64827.csv,Sri Lanka,West Indies,2003-06-07
+dt\csv1\64829.csv,Sri Lanka,West Indies,2003-06-11
+dt\csv1\64830.csv,Bangladesh,Australia,2003-08-02
+dt\csv1\64831.csv,Bangladesh,Australia,2003-08-03
+dt\csv1\64832.csv,Australia,Bangladesh,2003-08-06
+dt\csv1\64833.csv,Pakistan,Bangladesh,2003-09-09
+dt\csv1\64836.csv,Bangladesh,Pakistan,2003-09-18
+dt\csv1\64837.csv,Pakistan,Bangladesh,2003-09-21
+dt\csv1\64838.csv,Pakistan,South Africa,2003-10-03
+dt\csv1\64839.csv,Pakistan,South Africa,2003-10-05
+dt\csv1\64840.csv,Pakistan,South Africa,2003-10-07
+dt\csv1\64841.csv,Pakistan,South Africa,2003-10-10
+dt\csv1\64842.csv,Pakistan,South Africa,2003-10-12
+dt\csv1\64843.csv,Bangladesh,England,2003-11-07
+dt\csv1\64844.csv,Bangladesh,England,2003-11-10
+dt\csv1\64845.csv,Bangladesh,England,2003-11-12
+dt\csv1\64846.csv,England,Sri Lanka,2003-11-18
+dt\csv1\64848.csv,West Indies,Zimbabwe,2003-11-23
+dt\csv1\64849.csv,Zimbabwe,West Indies,2003-11-26
+dt\csv1\64850.csv,New Zealand,Pakistan,2003-11-29
+dt\csv1\64851.csv,West Indies,Zimbabwe,2003-11-29
+dt\csv1\64852.csv,Zimbabwe,West Indies,2003-11-30
+dt\csv1\64853.csv,Pakistan,New Zealand,2003-12-01
+dt\csv1\64855.csv,New Zealand,Pakistan,2003-12-05
+dt\csv1\64857.csv,Pakistan,New Zealand,2004-01-03
+dt\csv1\64862.csv,South Africa,West Indies,2004-01-25
+dt\csv1\64864.csv,West Indies,South Africa,2004-01-30
+dt\csv1\64865.csv,South Africa,West Indies,2004-02-01
+dt\csv1\64870.csv,Australia,Sri Lanka,2004-02-20
+dt\csv1\64871.csv,Sri Lanka,Australia,2004-02-22
+dt\csv1\64872.csv,South Africa,New Zealand,2004-02-25
+dt\csv1\64874.csv,Australia,Sri Lanka,2004-02-27
+dt\csv1\64881.csv,Bangladesh,Zimbabwe,2004-03-14
+dt\csv1\64882.csv,Pakistan,India,2004-03-16
+dt\csv1\64883.csv,India,Pakistan,2004-03-19
+dt\csv1\64884.csv,Pakistan,India,2004-03-21
+dt\csv1\64885.csv,India,Pakistan,2004-03-24
+dt\csv1\64887.csv,Zimbabwe,Sri Lanka,2004-04-20
+dt\csv1\64889.csv,West Indies,England,2004-04-24
+dt\csv1\64891.csv,Sri Lanka,Zimbabwe,2004-04-27
+dt\csv1\64894.csv,England,West Indies,2004-05-02
+dt\csv1\64896.csv,Bangladesh,West Indies,2004-05-15
+dt\csv1\64897.csv,West Indies,Bangladesh,2004-05-16
+dt\csv1\64898.csv,Bangladesh,West Indies,2004-05-19
+dt\csv1\64899.csv,Zimbabwe,Australia,2004-05-25
+dt\csv1\64900.csv,Australia,Zimbabwe,2004-05-27
+dt\csv1\64901.csv,Zimbabwe,Australia,2004-05-29
+dt\csv1\64905.csv,South Africa,Sri Lanka,2004-08-28
+dt\csv1\64906.csv,Sri Lanka,South Africa,2004-08-31
+dt\csv1\64907.csv,New Zealand,Bangladesh,2004-11-02
+dt\csv1\64910.csv,Zimbabwe,England,2004-11-28
+dt\csv1\64911.csv,England,Zimbabwe,2004-12-01
+dt\csv1\64913.csv,England,Zimbabwe,2004-12-05
+dt\csv1\64914.csv,India,Bangladesh,2004-12-23
+dt\csv1\64917.csv,India,Bangladesh,2004-12-27
+dt\csv1\64919.csv,Zimbabwe,Bangladesh,2005-01-24
+dt\csv1\64922.csv,South Africa,England,2005-01-30
+dt\csv1\64923.csv,Zimbabwe,Bangladesh,2005-01-31
+dt\csv1\64924.csv,England,South Africa,2005-02-02
+dt\csv1\64925.csv,England,South Africa,2005-02-04
+dt\csv1\64926.csv,South Africa,England,2005-02-06
+dt\csv1\64927.csv,South Africa,England,2005-02-09
+dt\csv1\64928.csv,South Africa,England,2005-02-11
+dt\csv1\64929.csv,England,South Africa,2005-02-13
+dt\csv1\64932.csv,South Africa,Zimbabwe,2005-02-25
+dt\csv1\64933.csv,Australia,New Zealand,2005-02-26
+dt\csv1\64934.csv,South Africa,Zimbabwe,2005-02-27
+dt\csv1\64935.csv,New Zealand,Australia,2005-03-01
+dt\csv1\64936.csv,Zimbabwe,South Africa,2005-03-02
+dt\csv1\64939.csv,India,Pakistan,2005-04-05
+dt\csv1\64941.csv,India,Pakistan,2005-04-12
+dt\csv1\64942.csv,India,Pakistan,2005-04-15
+dt\csv1\64943.csv,Pakistan,India,2005-04-17
+dt\csv1\65029.csv,England,Pakistan,2003-06-17
+dt\csv1\65030.csv,Pakistan,England,2003-06-20
+dt\csv1\65031.csv,Pakistan,England,2003-06-22
+dt\csv1\65032.csv,India,England,2004-09-01
+dt\csv1\65033.csv,England,India,2004-09-03
+dt\csv1\65034.csv,India,England,2004-09-05
+dt\csv1\65235.csv,West Indies,South Africa,2003-02-09
+dt\csv1\65236.csv,Zimbabwe,Namibia,2003-02-10
+dt\csv1\65237.csv,Sri Lanka,New Zealand,2003-02-10
+dt\csv1\65238.csv,Australia,Pakistan,2003-02-11
+dt\csv1\65239.csv,Canada,Bangladesh,2003-02-11
+dt\csv1\65240.csv,Kenya,South Africa,2003-02-12
+dt\csv1\65241.csv,India,Netherlands,2003-02-12
+dt\csv1\65242.csv,New Zealand,West Indies,2003-02-13
+dt\csv1\65244.csv,India,Australia,2003-02-15
+dt\csv1\65245.csv,Canada,Kenya,2003-02-15
+dt\csv1\65246.csv,Netherlands,England,2003-02-16
+dt\csv1\65247.csv,Pakistan,Namibia,2003-02-16
+dt\csv1\65248.csv,South Africa,New Zealand,2003-02-16
+dt\csv1\65249.csv,West Indies,Bangladesh,2003-02-18
+dt\csv1\65250.csv,India,Zimbabwe,2003-02-19
+dt\csv1\65251.csv,Canada,Sri Lanka,2003-02-19
+dt\csv1\65252.csv,England,Namibia,2003-02-19
+dt\csv1\65254.csv,Bangladesh,South Africa,2003-02-22
+dt\csv1\65255.csv,England,Pakistan,2003-02-22
+dt\csv1\65256.csv,Canada,West Indies,2003-02-23
+dt\csv1\65257.csv,India,Namibia,2003-02-23
+dt\csv1\65258.csv,Kenya,Sri Lanka,2003-02-24
+dt\csv1\65259.csv,Zimbabwe,Australia,2003-02-24
+dt\csv1\65260.csv,Pakistan,Netherlands,2003-02-25
+dt\csv1\65261.csv,Bangladesh,New Zealand,2003-02-26
+dt\csv1\65262.csv,India,England,2003-02-26
+dt\csv1\65263.csv,Australia,Namibia,2003-02-27
+dt\csv1\65264.csv,South Africa,Canada,2003-02-27
+dt\csv1\65265.csv,Zimbabwe,Netherlands,2003-02-28
+dt\csv1\65266.csv,Sri Lanka,West Indies,2003-02-28
+dt\csv1\65267.csv,Kenya,Bangladesh,2003-03-01
+dt\csv1\65268.csv,Pakistan,India,2003-03-01
+dt\csv1\65269.csv,England,Australia,2003-03-02
+dt\csv1\65270.csv,Canada,New Zealand,2003-03-03
+dt\csv1\65271.csv,Netherlands,Namibia,2003-03-03
+dt\csv1\65272.csv,Sri Lanka,South Africa,2003-03-03
+dt\csv1\65273.csv,Pakistan,Zimbabwe,2003-03-04
+dt\csv1\65275.csv,Australia,Sri Lanka,2003-03-07
+dt\csv1\65276.csv,Kenya,India,2003-03-07
+dt\csv1\65277.csv,Zimbabwe,New Zealand,2003-03-08
+dt\csv1\65278.csv,India,Sri Lanka,2003-03-10
+dt\csv1\65279.csv,Australia,New Zealand,2003-03-11
+dt\csv1\65280.csv,Zimbabwe,Kenya,2003-03-12
+dt\csv1\65281.csv,New Zealand,India,2003-03-14
+dt\csv1\65282.csv,Sri Lanka,Zimbabwe,2003-03-15
+dt\csv1\65283.csv,Kenya,Australia,2003-03-15
+dt\csv1\65284.csv,Australia,Sri Lanka,2003-03-18
+dt\csv1\65285.csv,India,Kenya,2003-03-20
+dt\csv1\65286.csv,Australia,India,2003-03-23
+dt\csv1\65634.csv,Sri Lanka,Australia,2003-01-09
+dt\csv1\65635.csv,Australia,England,2003-01-11
+dt\csv1\65636.csv,Sri Lanka,England,2003-01-13
+dt\csv1\65637.csv,Sri Lanka,Australia,2003-01-15
+dt\csv1\65638.csv,England,Sri Lanka,2003-01-17
+dt\csv1\65639.csv,England,Australia,2003-01-19
+dt\csv1\65640.csv,Sri Lanka,Australia,2003-01-21
+dt\csv1\65641.csv,England,Australia,2003-01-23
+dt\csv1\65642.csv,Australia,England,2003-01-25
+dt\csv1\65643.csv,Australia,India,2004-01-09
+dt\csv1\65644.csv,Australia,Zimbabwe,2004-01-11
+dt\csv1\65645.csv,Zimbabwe,India,2004-01-14
+dt\csv1\65646.csv,Australia,Zimbabwe,2004-01-16
+dt\csv1\65647.csv,India,Australia,2004-01-18
+dt\csv1\65648.csv,India,Zimbabwe,2004-01-20
+dt\csv1\65649.csv,India,Australia,2004-01-22
+dt\csv1\65652.csv,Australia,Zimbabwe,2004-01-29
+dt\csv1\65653.csv,India,Australia,2004-02-01
+dt\csv1\65655.csv,India,Australia,2004-02-06
+dt\csv1\65656.csv,Australia,India,2004-02-08
+dt\csv1\65659.csv,West Indies,Pakistan,2005-01-19
+dt\csv1\65660.csv,West Indies,Australia,2005-01-21
+dt\csv1\65661.csv,Pakistan,Australia,2005-01-23
+dt\csv1\65662.csv,Australia,West Indies,2005-01-26
+dt\csv1\65664.csv,Australia,Pakistan,2005-01-30
+dt\csv1\65665.csv,Pakistan,West Indies,2005-02-01
+dt\csv1\65666.csv,Australia,Pakistan,2005-02-04
+dt\csv1\65708.csv,Pakistan,Bangladesh,2004-07-17
+dt\csv1\65713.csv,Pakistan,Sri Lanka,2004-07-21
+dt\csv1\65714.csv,Bangladesh,Sri Lanka,2004-07-23
+dt\csv1\65716.csv,India,Sri Lanka,2004-07-27
+dt\csv1\65718.csv,Sri Lanka,India,2004-08-01
+dt\csv1\65803.csv,Pakistan,Zimbabwe,2003-04-03
+dt\csv1\65804.csv,Sri Lanka,Pakistan,2003-04-04
+dt\csv1\65805.csv,Kenya,Zimbabwe,2003-04-05
+dt\csv1\65806.csv,Sri Lanka,Kenya,2003-04-06
+dt\csv1\65807.csv,Sri Lanka,Zimbabwe,2003-04-07
+dt\csv1\65808.csv,Pakistan,Kenya,2003-04-08
+dt\csv1\65809.csv,Zimbabwe,Pakistan,2003-04-10
+dt\csv1\66196.csv,England,Zimbabwe,2004-09-10
+dt\csv1\66197.csv,New Zealand,United States of America,2004-09-10
+dt\csv1\66198.csv,India,Kenya,2004-09-11
+dt\csv1\66200.csv,United States of America,Australia,2004-09-13
+dt\csv1\66201.csv,Zimbabwe,Sri Lanka,2004-09-14
+dt\csv1\66202.csv,Kenya,Pakistan,2004-09-14
+dt\csv1\66203.csv,West Indies,Bangladesh,2004-09-15
+dt\csv1\66204.csv,New Zealand,Australia,2004-09-16
+dt\csv1\66205.csv,England,Sri Lanka,2004-09-17
+dt\csv1\66206.csv,South Africa,West Indies,2004-09-18
+dt\csv1\66207.csv,India,Pakistan,2004-09-19
+dt\csv1\66208.csv,Australia,England,2004-09-21
+dt\csv1\66209.csv,Pakistan,West Indies,2004-09-22
+dt\csv1\66210.csv,England,West Indies,2004-09-25
+dt\csv1\66293.csv,England,Zimbabwe,2003-06-26
+dt\csv1\66294.csv,South Africa,England,2003-06-28
+dt\csv1\66295.csv,South Africa,Zimbabwe,2003-06-29
+dt\csv1\66296.csv,England,Zimbabwe,2003-07-01
+dt\csv1\66297.csv,England,South Africa,2003-07-03
+dt\csv1\66299.csv,Zimbabwe,England,2003-07-06
+dt\csv1\66301.csv,Zimbabwe,South Africa,2003-07-10
+dt\csv1\66302.csv,South Africa,England,2003-07-12
+dt\csv1\66304.csv,England,West Indies,2004-06-27
+dt\csv1\66305.csv,England,New Zealand,2004-06-29
+dt\csv1\66306.csv,West Indies,England,2004-07-01
+dt\csv1\66309.csv,England,West Indies,2004-07-06
+dt\csv1\66311.csv,New Zealand,West Indies,2004-07-10
+dt\csv1\66356.csv,India,South Africa,2003-04-21
+dt\csv1\66357.csv,Pakistan,Sri Lanka,2003-05-10
+dt\csv1\66358.csv,Pakistan,New Zealand,2003-05-11
+dt\csv1\66361.csv,New Zealand,Sri Lanka,2003-05-19
+dt\csv1\66363.csv,Pakistan,New Zealand,2003-05-23
+dt\csv1\66364.csv,India,New Zealand,2003-10-23
+dt\csv1\66365.csv,India,Australia,2003-10-26
+dt\csv1\66366.csv,New Zealand,Australia,2003-10-29
+dt\csv1\66367.csv,Australia,India,2003-11-01
+dt\csv1\66368.csv,New Zealand,Australia,2003-11-03
+dt\csv1\66369.csv,India,New Zealand,2003-11-06
+dt\csv1\66372.csv,India,New Zealand,2003-11-15
+dt\csv1\66374.csv,Pakistan,India,2004-08-21
+dt\csv1\66375.csv,Australia,India,2004-08-23
+dt\csv1\66377.csv,Australia,Pakistan,2004-09-04
+dt\csv1\66378.csv,Pakistan,Zimbabwe,2004-09-30
+dt\csv1\66379.csv,Zimbabwe,Pakistan,2004-10-03
+dt\csv1\66380.csv,Sri Lanka,Pakistan,2004-10-06
+dt\csv1\66381.csv,Zimbabwe,Sri Lanka,2004-10-09
+dt\csv1\66383.csv,Sri Lanka,Pakistan,2004-10-16
+dt\csv1\66385.csv,Australia,New Zealand,2004-12-05
+dt\csv1\66386.csv,Australia,New Zealand,2004-12-08
+dt\csv2\208835.csv,West Indies,South Africa,2005-05-08
+dt\csv2\209339.csv,West Indies,South Africa,2005-05-15
+dt\csv2\209582.csv,Pakistan,West Indies,2005-05-18
+dt\csv2\209768.csv,Pakistan,West Indies,2005-05-22
+dt\csv2\211244.csv,Bangladesh,England,2005-06-16
+dt\csv2\211364.csv,Australia,Bangladesh,2005-06-18
+dt\csv2\211678.csv,Australia,England,2005-06-23
+dt\csv2\211824.csv,Bangladesh,Australia,2005-06-25
+dt\csv2\211860.csv,Bangladesh,England,2005-06-26
+dt\csv2\212020.csv,Australia,England,2005-06-28
+dt\csv2\212253.csv,Bangladesh,Australia,2005-06-30
+dt\csv2\212452.csv,Australia,England,2005-07-02
+dt\csv2\213288.csv,England,Australia,2005-07-12
+dt\csv2\214742.csv,West Indies,India,2005-07-31
+dt\csv2\214852.csv,Sri Lanka,West Indies,2005-08-02
+dt\csv2\215134.csv,West Indies,Sri Lanka,2005-08-06
+dt\csv2\216271.csv,Africa XI,Asia XI,2005-08-17
+dt\csv2\216669.csv,Africa XI,Asia XI,2005-08-21
+dt\csv2\217481.csv,India,Zimbabwe,2005-08-29
+dt\csv2\217647.csv,Sri Lanka,Bangladesh,2005-08-31
+dt\csv2\217648.csv,New Zealand,Zimbabwe,2005-08-31
+dt\csv2\217979.csv,Zimbabwe,India,2005-09-04
+dt\csv2\218250.csv,India,New Zealand,2005-09-06
+dt\csv2\221083.csv,Australia,ICC World XI,2005-10-07
+dt\csv2\221337.csv,Australia,ICC World XI,2005-10-09
+dt\csv2\223018.csv,India,Sri Lanka,2005-10-25
+dt\csv2\223334.csv,Sri Lanka,India,2005-10-28
+dt\csv2\223335.csv,South Africa,New Zealand,2005-10-28
+dt\csv2\223542.csv,New Zealand,South Africa,2005-10-30
+dt\csv2\223902.csv,Sri Lanka,India,2005-11-03
+dt\csv2\224044.csv,South Africa,New Zealand,2005-11-04
+dt\csv2\224227.csv,New Zealand,South Africa,2005-11-06
+dt\csv2\224231.csv,India,Sri Lanka,2005-11-06
+dt\csv2\224556.csv,Sri Lanka,India,2005-11-09
+dt\csv2\225171.csv,Ireland,England,2006-06-13
+dt\csv2\225245.csv,England,Pakistan,2006-08-30
+dt\csv2\225246.csv,England,Pakistan,2006-09-02
+dt\csv2\225247.csv,England,Pakistan,2006-09-05
+dt\csv2\225248.csv,England,Pakistan,2006-09-08
+dt\csv2\225249.csv,England,Pakistan,2006-09-10
+dt\csv2\225250.csv,England,Sri Lanka,2006-06-17
+dt\csv2\225251.csv,England,Sri Lanka,2006-06-20
+dt\csv2\225252.csv,England,Sri Lanka,2006-06-24
+dt\csv2\225253.csv,England,Sri Lanka,2006-06-28
+dt\csv2\225254.csv,England,Sri Lanka,2006-07-01
+dt\csv2\225437.csv,Sri Lanka,India,2005-11-12
+dt\csv2\225959.csv,India,South Africa,2005-11-16
+dt\csv2\226352.csv,England,Pakistan,2005-12-10
+dt\csv2\226354.csv,Pakistan,England,2005-12-15
+dt\csv2\226356.csv,England,Pakistan,2005-12-21
+dt\csv2\226359.csv,South Africa,India,2005-11-28
+dt\csv2\226364.csv,Australia,New Zealand,2005-12-03
+dt\csv2\226375.csv,Australia,South Africa,2006-01-15
+dt\csv2\226376.csv,Australia,South Africa,2006-01-20
+dt\csv2\226377.csv,Australia,South Africa,2006-02-03
+dt\csv2\226378.csv,Australia,South Africa,2006-02-05
+dt\csv2\226380.csv,Australia,Sri Lanka,2006-01-22
+dt\csv2\226381.csv,Australia,Sri Lanka,2006-01-26
+dt\csv2\226382.csv,Australia,Sri Lanka,2006-01-29
+dt\csv2\226383.csv,South Africa,Sri Lanka,2006-01-17
+dt\csv2\226384.csv,South Africa,Sri Lanka,2006-01-24
+dt\csv2\226385.csv,South Africa,Sri Lanka,2006-01-31
+dt\csv2\226386.csv,South Africa,Sri Lanka,2006-02-07
+dt\csv2\226390.csv,Sri Lanka,New Zealand,2005-12-31
+dt\csv2\226391.csv,New Zealand,Sri Lanka,2006-01-03
+dt\csv2\226392.csv,New Zealand,Sri Lanka,2006-01-06
+dt\csv2\235831.csv,Pakistan,India,2006-02-06
+dt\csv2\236358.csv,Australia,Sri Lanka,2006-02-10
+dt\csv2\236520.csv,Pakistan,India,2006-02-11
+dt\csv2\236595.csv,Australia,Sri Lanka,2006-02-12
+dt\csv2\236809.csv,Pakistan,India,2006-02-13
+dt\csv2\236963.csv,Australia,Sri Lanka,2006-02-14
+dt\csv2\237222.csv,Pakistan,India,2006-02-16
+dt\csv2\237568.csv,New Zealand,West Indies,2006-02-18
+dt\csv2\237571.csv,Pakistan,India,2006-02-19
+dt\csv2\237574.csv,Bangladesh,Sri Lanka,2006-02-20
+dt\csv2\238169.csv,Bangladesh,Sri Lanka,2006-02-22
+dt\csv2\238170.csv,Bangladesh,Sri Lanka,2006-02-25
+dt\csv2\238173.csv,Bangladesh,Australia,2006-04-23
+dt\csv2\238174.csv,Bangladesh,Australia,2006-04-26
+dt\csv2\238175.csv,Bangladesh,Australia,2006-04-28
+dt\csv2\238176.csv,New Zealand,West Indies,2006-02-22
+dt\csv2\238177.csv,New Zealand,West Indies,2006-02-25
+dt\csv2\238178.csv,New Zealand,West Indies,2006-03-01
+dt\csv2\238179.csv,New Zealand,West Indies,2006-03-04
+dt\csv2\238188.csv,India,England,2006-03-28
+dt\csv2\238189.csv,India,England,2006-03-31
+dt\csv2\238190.csv,India,England,2006-04-03
+dt\csv2\238193.csv,India,England,2006-04-12
+dt\csv2\238194.csv,India,England,2006-04-15
+dt\csv2\238196.csv,South Africa,Australia,2006-02-26
+dt\csv2\238197.csv,South Africa,Australia,2006-03-03
+dt\csv2\238198.csv,South Africa,Australia,2006-03-05
+dt\csv2\238199.csv,South Africa,Australia,2006-03-10
+dt\csv2\238200.csv,South Africa,Australia,2006-03-12
+dt\csv2\238213.csv,Sri Lanka,Pakistan,2006-03-17
+dt\csv2\238214.csv,Sri Lanka,Pakistan,2006-03-19
+dt\csv2\238215.csv,Sri Lanka,Pakistan,2006-03-22
+dt\csv2\239907.csv,West Indies,Zimbabwe,2006-04-29
+dt\csv2\239908.csv,West Indies,Zimbabwe,2006-04-30
+dt\csv2\239911.csv,West Indies,Zimbabwe,2006-05-10
+dt\csv2\239912.csv,West Indies,Zimbabwe,2006-05-13
+dt\csv2\239913.csv,West Indies,Zimbabwe,2006-05-14
+dt\csv2\239916.csv,West Indies,India,2006-05-20
+dt\csv2\239917.csv,West Indies,India,2006-05-23
+dt\csv2\239918.csv,West Indies,India,2006-05-26
+dt\csv2\239919.csv,West Indies,India,2006-05-28
+dt\csv2\244510.csv,India,Pakistan,2006-04-18
+dt\csv2\244511.csv,India,Pakistan,2006-04-19
+dt\csv2\247457.csv,West Indies,Pakistan,2007-03-13
+dt\csv2\247458.csv,Australia,Scotland,2007-03-14
+dt\csv2\247460.csv,Bermuda,Sri Lanka,2007-03-15
+dt\csv2\247461.csv,Ireland,Zimbabwe,2007-03-15
+dt\csv2\247462.csv,Netherlands,South Africa,2007-03-16
+dt\csv2\247463.csv,England,New Zealand,2007-03-16
+dt\csv2\247464.csv,Bangladesh,India,2007-03-17
+dt\csv2\247465.csv,Ireland,Pakistan,2007-03-17
+dt\csv2\247466.csv,Australia,Netherlands,2007-03-18
+dt\csv2\247467.csv,Canada,England,2007-03-18
+dt\csv2\247468.csv,Bermuda,India,2007-03-19
+dt\csv2\247469.csv,West Indies,Zimbabwe,2007-03-19
+dt\csv2\247470.csv,Scotland,South Africa,2007-03-20
+dt\csv2\247471.csv,Kenya,New Zealand,2007-03-20
+dt\csv2\247472.csv,Bangladesh,Sri Lanka,2007-03-21
+dt\csv2\247473.csv,Pakistan,Zimbabwe,2007-03-21
+dt\csv2\247474.csv,Netherlands,Scotland,2007-03-22
+dt\csv2\247475.csv,Canada,New Zealand,2007-03-22
+dt\csv2\247476.csv,India,Sri Lanka,2007-03-23
+dt\csv2\247477.csv,West Indies,Ireland,2007-03-23
+dt\csv2\247478.csv,Australia,South Africa,2007-03-24
+dt\csv2\247479.csv,England,Kenya,2007-03-24
+dt\csv2\247480.csv,Bangladesh,Bermuda,2007-03-25
+dt\csv2\247481.csv,West Indies,Australia,2007-03-27
+dt\csv2\247482.csv,South Africa,Sri Lanka,2007-03-28
+dt\csv2\247483.csv,West Indies,New Zealand,2007-03-29
+dt\csv2\247484.csv,England,Ireland,2007-03-30
+dt\csv2\247485.csv,Australia,Bangladesh,2007-03-31
+dt\csv2\247486.csv,West Indies,Sri Lanka,2007-04-01
+dt\csv2\247487.csv,Bangladesh,New Zealand,2007-04-02
+dt\csv2\247488.csv,Ireland,South Africa,2007-04-03
+dt\csv2\247489.csv,England,Sri Lanka,2007-04-04
+dt\csv2\247490.csv,Bangladesh,South Africa,2007-04-07
+dt\csv2\247491.csv,Australia,England,2007-04-08
+dt\csv2\247492.csv,Ireland,New Zealand,2007-04-09
+dt\csv2\247493.csv,West Indies,South Africa,2007-04-10
+dt\csv2\247494.csv,Bangladesh,England,2007-04-11
+dt\csv2\247495.csv,New Zealand,Sri Lanka,2007-04-12
+dt\csv2\247496.csv,Australia,Ireland,2007-04-13
+dt\csv2\247497.csv,New Zealand,South Africa,2007-04-14
+dt\csv2\247498.csv,Bangladesh,Ireland,2007-04-15
+dt\csv2\247499.csv,Australia,Sri Lanka,2007-04-16
+dt\csv2\247500.csv,England,South Africa,2007-04-17
+dt\csv2\247501.csv,Ireland,Sri Lanka,2007-04-18
+dt\csv2\247502.csv,West Indies,Bangladesh,2007-04-19
+dt\csv2\247503.csv,Australia,New Zealand,2007-04-20
+dt\csv2\247504.csv,West Indies,England,2007-04-21
+dt\csv2\247505.csv,New Zealand,Sri Lanka,2007-04-24
+dt\csv2\247506.csv,Australia,South Africa,2007-04-25
+dt\csv2\247507.csv,Australia,Sri Lanka,2007-04-28
+dt\csv2\249207.csv,Zimbabwe,Bangladesh,2006-08-06
+dt\csv2\249211.csv,South Africa,India,2006-11-22
+dt\csv2\249212.csv,South Africa,India,2006-11-26
+dt\csv2\249213.csv,South Africa,India,2006-11-29
+dt\csv2\249214.csv,South Africa,India,2006-12-03
+dt\csv2\249228.csv,Australia,New Zealand,2007-01-14
+dt\csv2\249229.csv,Australia,New Zealand,2007-01-21
+dt\csv2\249230.csv,Australia,New Zealand,2007-01-28
+dt\csv2\249231.csv,Australia,New Zealand,2007-02-04
+dt\csv2\249232.csv,Australia,England,2007-01-12
+dt\csv2\249233.csv,Australia,England,2007-01-19
+dt\csv2\249234.csv,Australia,England,2007-01-26
+dt\csv2\249235.csv,Australia,England,2007-02-02
+dt\csv2\249236.csv,England,New Zealand,2007-01-16
+dt\csv2\249237.csv,England,New Zealand,2007-01-23
+dt\csv2\249238.csv,England,New Zealand,2007-01-30
+dt\csv2\249239.csv,England,New Zealand,2007-02-06
+dt\csv2\249240.csv,Australia,England,2007-02-09
+dt\csv2\249241.csv,Australia,England,2007-02-11
+dt\csv2\249378.csv,Kenya,Bangladesh,2006-08-12
+dt\csv2\249379.csv,Kenya,Bangladesh,2006-08-13
+dt\csv2\249380.csv,Kenya,Bangladesh,2006-08-15
+dt\csv2\249739.csv,Bangladesh,Sri Lanka,2006-10-07
+dt\csv2\249740.csv,West Indies,Zimbabwe,2006-10-08
+dt\csv2\249741.csv,Sri Lanka,Zimbabwe,2006-10-10
+dt\csv2\249742.csv,Bangladesh,West Indies,2006-10-11
+dt\csv2\249743.csv,Bangladesh,Zimbabwe,2006-10-13
+dt\csv2\249744.csv,Sri Lanka,West Indies,2006-10-14
+dt\csv2\249745.csv,India,England,2006-10-15
+dt\csv2\249746.csv,New Zealand,South Africa,2006-10-16
+dt\csv2\249747.csv,Pakistan,Sri Lanka,2006-10-17
+dt\csv2\249748.csv,Australia,West Indies,2006-10-18
+dt\csv2\249749.csv,New Zealand,Sri Lanka,2006-10-20
+dt\csv2\249750.csv,Australia,England,2006-10-21
+dt\csv2\249751.csv,South Africa,Sri Lanka,2006-10-24
+dt\csv2\249752.csv,New Zealand,Pakistan,2006-10-25
+dt\csv2\249753.csv,India,West Indies,2006-10-26
+dt\csv2\249754.csv,Pakistan,South Africa,2006-10-27
+dt\csv2\249755.csv,England,West Indies,2006-10-28
+dt\csv2\249756.csv,India,Australia,2006-10-29
+dt\csv2\249757.csv,Australia,New Zealand,2006-11-01
+dt\csv2\249758.csv,South Africa,West Indies,2006-11-02
+dt\csv2\249759.csv,Australia,West Indies,2006-11-05
+dt\csv2\250668.csv,South Africa,Pakistan,2007-02-04
+dt\csv2\250669.csv,South Africa,Pakistan,2007-02-07
+dt\csv2\250670.csv,South Africa,Pakistan,2007-02-09
+dt\csv2\250671.csv,South Africa,Pakistan,2007-02-11
+dt\csv2\250672.csv,South Africa,Pakistan,2007-02-14
+dt\csv2\251489.csv,New Zealand,Sri Lanka,2006-12-28
+dt\csv2\251491.csv,New Zealand,Sri Lanka,2007-01-02
+dt\csv2\251492.csv,New Zealand,Sri Lanka,2007-01-06
+dt\csv2\251494.csv,New Zealand,Australia,2007-02-16
+dt\csv2\251495.csv,New Zealand,Australia,2007-02-18
+dt\csv2\251496.csv,New Zealand,Australia,2007-02-20
+dt\csv2\255961.csv,South Africa,Zimbabwe,2006-09-15
+dt\csv2\256607.csv,India,West Indies,2006-09-14
+dt\csv2\256608.csv,Australia,India,2006-09-16
+dt\csv2\256610.csv,Australia,West Indies,2006-09-18
+dt\csv2\256612.csv,India,West Indies,2006-09-20
+dt\csv2\256614.csv,Australia,India,2006-09-22
+dt\csv2\256615.csv,Australia,West Indies,2006-09-24
+dt\csv2\256665.csv,Sri Lanka,India,2006-08-18
+dt\csv2\257470.csv,South Africa,Zimbabwe,2006-09-20
+dt\csv2\257769.csv,Pakistan,West Indies,2006-12-07
+dt\csv2\257770.csv,Pakistan,West Indies,2006-12-10
+dt\csv2\257771.csv,Pakistan,West Indies,2006-12-13
+dt\csv2\257772.csv,Pakistan,West Indies,2006-12-16
+dt\csv2\258465.csv,England,West Indies,2007-07-01
+dt\csv2\258466.csv,England,West Indies,2007-07-04
+dt\csv2\258467.csv,England,West Indies,2007-07-07
+dt\csv2\258471.csv,England,India,2007-08-21
+dt\csv2\258472.csv,England,India,2007-08-24
+dt\csv2\258473.csv,England,India,2007-08-27
+dt\csv2\258474.csv,England,India,2007-08-30
+dt\csv2\258475.csv,England,India,2007-09-02
+dt\csv2\258476.csv,England,India,2007-09-05
+dt\csv2\258477.csv,England,India,2007-09-08
+dt\csv2\259384.csv,Bermuda,Canada,2006-11-27
+dt\csv2\259389.csv,Bermuda,Netherlands,2006-12-02
+dt\csv2\259390.csv,Bermuda,Canada,2006-11-30
+dt\csv2\259391.csv,Canada,Netherlands,2006-12-01
+dt\csv2\259793.csv,South Africa,Zimbabwe,2006-09-18
+dt\csv2\264068.csv,Bangladesh,Zimbabwe,2006-12-03
+dt\csv2\264069.csv,Bangladesh,Zimbabwe,2006-12-05
+dt\csv2\264070.csv,Bangladesh,Zimbabwe,2006-12-08
+dt\csv2\264071.csv,Bangladesh,Zimbabwe,2006-12-09
+dt\csv2\267386.csv,Bermuda,Canada,2007-02-02
+dt\csv2\267387.csv,Bermuda,Netherlands,2007-02-04
+dt\csv2\267389.csv,Kenya,Scotland,2007-02-04
+dt\csv2\267391.csv,Kenya,Canada,2007-02-05
+dt\csv2\267708.csv,India,West Indies,2007-01-27
+dt\csv2\267709.csv,India,West Indies,2007-01-31
+dt\csv2\267710.csv,India,Sri Lanka,2007-02-08
+dt\csv2\267712.csv,India,Sri Lanka,2007-02-11
+dt\csv2\267713.csv,India,Sri Lanka,2007-02-17
+dt\csv2\267715.csv,India,Sri Lanka,2007-02-14
+dt\csv2\275789.csv,Scotland,India,2007-08-16
+dt\csv2\282688.csv,Bangladesh,India,2007-05-10
+dt\csv2\282689.csv,Bangladesh,India,2007-05-12
+dt\csv2\289107.csv,Africa XI,Asia XI,2007-06-06
+dt\csv2\289108.csv,Africa XI,Asia XI,2007-06-09
+dt\csv2\289110.csv,Africa XI,Asia XI,2007-06-10
+dt\csv2\291217.csv,Sri Lanka,England,2007-10-01
+dt\csv2\291218.csv,Sri Lanka,England,2007-10-04
+dt\csv2\291220.csv,Sri Lanka,England,2007-10-10
+dt\csv2\291221.csv,Sri Lanka,England,2007-10-13
+dt\csv2\291345.csv,Australia,New Zealand,2007-12-14
+dt\csv2\291346.csv,Australia,New Zealand,2007-12-16
+dt\csv2\291347.csv,Australia,New Zealand,2007-12-20
+dt\csv2\291359.csv,Australia,India,2008-02-03
+dt\csv2\291360.csv,India,Sri Lanka,2008-02-05
+dt\csv2\291361.csv,Australia,Sri Lanka,2008-02-08
+dt\csv2\291362.csv,Australia,India,2008-02-10
+dt\csv2\291364.csv,Australia,Sri Lanka,2008-02-15
+dt\csv2\291365.csv,Australia,India,2008-02-17
+dt\csv2\291366.csv,India,Sri Lanka,2008-02-19
+dt\csv2\291367.csv,Australia,Sri Lanka,2008-02-22
+dt\csv2\291368.csv,Australia,India,2008-02-24
+dt\csv2\291369.csv,India,Sri Lanka,2008-02-26
+dt\csv2\291370.csv,Australia,Sri Lanka,2008-02-29
+dt\csv2\291371.csv,Australia,India,2008-03-02
+dt\csv2\291372.csv,Australia,India,2008-03-04
+dt\csv2\293071.csv,Ireland,India,2007-06-23
+dt\csv2\293072.csv,Ireland,South Africa,2007-06-24
+dt\csv2\293076.csv,India,South Africa,2007-06-26
+dt\csv2\293077.csv,India,South Africa,2007-06-29
+dt\csv2\293078.csv,India,South Africa,2007-07-01
+dt\csv2\293481.csv,Sri Lanka,Bangladesh,2007-07-20
+dt\csv2\293482.csv,Sri Lanka,Bangladesh,2007-07-23
+dt\csv2\293483.csv,Sri Lanka,Bangladesh,2007-07-25
+dt\csv2\295785.csv,Netherlands,Scotland,2007-07-13
+dt\csv2\295788.csv,Ireland,West Indies,2007-07-14
+dt\csv2\296685.csv,Kenya,Canada,2007-10-18
+dt\csv2\296687.csv,Kenya,Canada,2007-10-20
+dt\csv2\296904.csv,England,New Zealand,2008-06-15
+dt\csv2\296905.csv,England,New Zealand,2008-06-18
+dt\csv2\296906.csv,England,New Zealand,2008-06-21
+dt\csv2\296907.csv,England,New Zealand,2008-06-25
+dt\csv2\296908.csv,England,New Zealand,2008-06-28
+dt\csv2\296914.csv,England,South Africa,2008-08-22
+dt\csv2\296915.csv,England,South Africa,2008-08-26
+dt\csv2\296916.csv,England,South Africa,2008-08-29
+dt\csv2\296917.csv,England,South Africa,2008-08-31
+dt\csv2\296918.csv,England,South Africa,2008-09-03
+dt\csv2\297793.csv,India,Australia,2007-09-29
+dt\csv2\297794.csv,India,Australia,2007-10-02
+dt\csv2\297795.csv,India,Australia,2007-10-05
+dt\csv2\297796.csv,India,Australia,2007-10-08
+dt\csv2\297797.csv,India,Australia,2007-10-11
+dt\csv2\297798.csv,India,Australia,2007-10-14
+dt\csv2\297799.csv,India,Australia,2007-10-17
+dt\csv2\297801.csv,India,Pakistan,2007-11-05
+dt\csv2\297802.csv,India,Pakistan,2007-11-08
+dt\csv2\297803.csv,India,Pakistan,2007-11-11
+dt\csv2\297804.csv,India,Pakistan,2007-11-15
+dt\csv2\297805.csv,India,Pakistan,2007-11-18
+dt\csv2\298796.csv,South Africa,New Zealand,2007-11-25
+dt\csv2\298797.csv,South Africa,New Zealand,2007-11-30
+dt\csv2\298798.csv,South Africa,New Zealand,2007-12-02
+dt\csv2\298805.csv,South Africa,West Indies,2008-01-20
+dt\csv2\298806.csv,South Africa,West Indies,2008-01-25
+dt\csv2\298807.csv,South Africa,West Indies,2008-01-27
+dt\csv2\298808.csv,South Africa,West Indies,2008-02-01
+dt\csv2\298809.csv,South Africa,West Indies,2008-02-03
+dt\csv2\299006.csv,Pakistan,South Africa,2007-10-18
+dt\csv2\299007.csv,Pakistan,South Africa,2007-10-20
+dt\csv2\299008.csv,Pakistan,South Africa,2007-10-23
+dt\csv2\299009.csv,Pakistan,South Africa,2007-10-26
+dt\csv2\299010.csv,Pakistan,South Africa,2007-10-29
+dt\csv2\300426.csv,New Zealand,Bangladesh,2007-12-26
+dt\csv2\300427.csv,New Zealand,Bangladesh,2007-12-28
+dt\csv2\300428.csv,New Zealand,Bangladesh,2007-12-31
+dt\csv2\300437.csv,New Zealand,England,2008-02-09
+dt\csv2\300438.csv,New Zealand,England,2008-02-12
+dt\csv2\300439.csv,New Zealand,England,2008-02-15
+dt\csv2\300440.csv,New Zealand,England,2008-02-20
+dt\csv2\300441.csv,New Zealand,England,2008-02-23
+dt\csv2\300486.csv,Zimbabwe,South Africa,2007-08-22
+dt\csv2\300487.csv,Zimbabwe,South Africa,2007-08-25
+dt\csv2\300488.csv,Zimbabwe,South Africa,2007-08-26
+dt\csv2\313992.csv,Kenya,Bermuda,2007-10-25
+dt\csv2\313993.csv,Kenya,Bermuda,2007-10-27
+dt\csv2\313994.csv,Kenya,Bermuda,2007-10-28
+dt\csv2\317578.csv,Zimbabwe,West Indies,2007-11-30
+dt\csv2\317579.csv,Zimbabwe,West Indies,2007-12-02
+dt\csv2\317581.csv,Zimbabwe,West Indies,2007-12-07
+dt\csv2\319134.csv,West Indies,Sri Lanka,2008-04-10
+dt\csv2\319135.csv,West Indies,Sri Lanka,2008-04-12
+dt\csv2\319136.csv,West Indies,Sri Lanka,2008-04-15
+dt\csv2\319143.csv,West Indies,Australia,2008-06-24
+dt\csv2\319144.csv,West Indies,Australia,2008-06-27
+dt\csv2\319145.csv,West Indies,Australia,2008-06-29
+dt\csv2\319146.csv,West Indies,Australia,2008-07-04
+dt\csv2\319147.csv,West Indies,Australia,2008-07-06
+dt\csv2\323949.csv,Bangladesh,South Africa,2008-03-09
+dt\csv2\323950.csv,Bangladesh,South Africa,2008-03-12
+dt\csv2\323951.csv,Bangladesh,South Africa,2008-03-14
+dt\csv2\325569.csv,Canada,Bermuda,2008-06-29
+dt\csv2\325572.csv,Scotland,Kenya,2008-08-12
+dt\csv2\325576.csv,Ireland,Kenya,2008-08-25
+dt\csv2\325579.csv,Netherlands,Scotland,2008-07-29
+dt\csv2\325580.csv,Ireland,Scotland,2008-07-31
+dt\csv2\325581.csv,Ireland,Zimbabwe,2008-10-17
+dt\csv2\325800.csv,Pakistan,Zimbabwe,2008-01-21
+dt\csv2\325801.csv,Pakistan,Zimbabwe,2008-01-24
+dt\csv2\325802.csv,Pakistan,Zimbabwe,2008-01-27
+dt\csv2\325803.csv,Pakistan,Zimbabwe,2008-01-30
+dt\csv2\325804.csv,Pakistan,Zimbabwe,2008-02-02
+dt\csv2\335346.csv,Bangladesh,United Arab Emirates,2008-06-24
+dt\csv2\335347.csv,Pakistan,Hong Kong,2008-06-24
+dt\csv2\335348.csv,Bangladesh,Sri Lanka,2008-06-25
+dt\csv2\335349.csv,Hong Kong,India,2008-06-25
+dt\csv2\335350.csv,Sri Lanka,United Arab Emirates,2008-06-26
+dt\csv2\335351.csv,Pakistan,India,2008-06-26
+dt\csv2\335352.csv,Bangladesh,India,2008-06-28
+dt\csv2\335353.csv,Pakistan,Sri Lanka,2008-06-29
+dt\csv2\335354.csv,Bangladesh,Sri Lanka,2008-06-30
+dt\csv2\335355.csv,Pakistan,India,2008-07-02
+dt\csv2\335356.csv,India,Sri Lanka,2008-07-03
+dt\csv2\335357.csv,Pakistan,Bangladesh,2008-07-04
+dt\csv2\335358.csv,India,Sri Lanka,2008-07-06
+dt\csv2\336201.csv,Australia,Bangladesh,2008-08-30
+dt\csv2\336202.csv,Australia,Bangladesh,2008-09-03
+dt\csv2\336204.csv,Australia,Bangladesh,2008-09-06
+dt\csv2\343732.csv,Sri Lanka,India,2008-08-18
+dt\csv2\343733.csv,Sri Lanka,India,2008-08-20
+dt\csv2\343734.csv,Sri Lanka,India,2008-08-24
+dt\csv2\343736.csv,Sri Lanka,India,2008-08-29
+dt\csv2\343759.csv,Pakistan,Bangladesh,2008-04-08
+dt\csv2\343760.csv,Pakistan,Bangladesh,2008-04-11
+dt\csv2\343761.csv,Pakistan,Bangladesh,2008-04-13
+dt\csv2\343762.csv,Pakistan,Bangladesh,2008-04-16
+dt\csv2\343763.csv,Pakistan,Bangladesh,2008-04-19
+dt\csv2\345468.csv,Bangladesh,Pakistan,2008-06-08
+dt\csv2\345469.csv,India,Pakistan,2008-06-10
+dt\csv2\345470.csv,Bangladesh,India,2008-06-12
+dt\csv2\345471.csv,India,Pakistan,2008-06-14
+dt\csv2\350043.csv,England,Australia,2009-09-04
+dt\csv2\350044.csv,England,Australia,2009-09-06
+dt\csv2\350045.csv,England,Australia,2009-09-09
+dt\csv2\350046.csv,England,Australia,2009-09-12
+dt\csv2\350047.csv,England,Australia,2009-09-15
+dt\csv2\350048.csv,England,Australia,2009-09-17
+dt\csv2\350049.csv,England,Australia,2009-09-20
+dt\csv2\350348.csv,South Africa,Bangladesh,2008-11-07
+dt\csv2\350477.csv,South Africa,Australia,2009-04-03
+dt\csv2\350478.csv,South Africa,Australia,2009-04-05
+dt\csv2\350479.csv,South Africa,Australia,2009-04-09
+dt\csv2\350480.csv,South Africa,Australia,2009-04-13
+dt\csv2\350481.csv,South Africa,Australia,2009-04-17
+dt\csv2\351684.csv,Australia,South Africa,2009-01-16
+dt\csv2\351685.csv,Australia,South Africa,2009-01-18
+dt\csv2\351686.csv,Australia,South Africa,2009-01-23
+dt\csv2\351687.csv,Australia,South Africa,2009-01-26
+dt\csv2\351688.csv,Australia,South Africa,2009-01-30
+dt\csv2\351689.csv,Australia,New Zealand,2009-02-01
+dt\csv2\351690.csv,Australia,New Zealand,2009-02-06
+dt\csv2\351691.csv,Australia,New Zealand,2009-02-08
+dt\csv2\351692.csv,Australia,New Zealand,2009-02-10
+dt\csv2\351693.csv,Australia,New Zealand,2009-02-13
+dt\csv2\352665.csv,West Indies,England,2009-03-20
+dt\csv2\352666.csv,West Indies,England,2009-03-22
+dt\csv2\352667.csv,West Indies,England,2009-03-27
+dt\csv2\352668.csv,West Indies,England,2009-03-29
+dt\csv2\352669.csv,West Indies,England,2009-04-03
+dt\csv2\360800.csv,South Africa,Kenya,2008-10-31
+dt\csv2\361043.csv,India,England,2008-11-14
+dt\csv2\361044.csv,India,England,2008-11-17
+dt\csv2\361045.csv,India,England,2008-11-20
+dt\csv2\361046.csv,India,England,2008-11-23
+dt\csv2\361047.csv,India,England,2008-11-26
+dt\csv2\366341.csv,Sri Lanka,India,2008-08-27
+dt\csv2\366623.csv,New Zealand,India,2009-03-03
+dt\csv2\366624.csv,New Zealand,India,2009-03-11
+dt\csv2\366625.csv,New Zealand,India,2009-03-14
+dt\csv2\366626.csv,New Zealand,India,2009-03-06
+dt\csv2\366627.csv,New Zealand,India,2009-03-08
+dt\csv2\366709.csv,New Zealand,West Indies,2008-12-31
+dt\csv2\366711.csv,New Zealand,West Indies,2009-01-07
+dt\csv2\374059.csv,Pakistan,West Indies,2008-11-12
+dt\csv2\374060.csv,Pakistan,West Indies,2008-11-14
+dt\csv2\375456.csv,Zimbabwe,Sri Lanka,2008-11-20
+dt\csv2\375457.csv,Zimbabwe,Sri Lanka,2008-11-22
+dt\csv2\375460.csv,Zimbabwe,Sri Lanka,2008-11-24
+dt\csv2\375462.csv,Zimbabwe,Sri Lanka,2008-11-30
+dt\csv2\377313.csv,West Indies,India,2009-06-26
+dt\csv2\377314.csv,West Indies,India,2009-06-28
+dt\csv2\377315.csv,West Indies,India,2009-07-03
+dt\csv2\377316.csv,West Indies,India,2009-07-05
+dt\csv2\378753.csv,Bangladesh,Zimbabwe,2009-01-10
+dt\csv2\378755.csv,Bangladesh,Sri Lanka,2009-01-14
+dt\csv2\378759.csv,Bangladesh,Zimbabwe,2009-01-23
+dt\csv2\380715.csv,England,West Indies,2009-05-24
+dt\csv2\380716.csv,England,West Indies,2009-05-26
+dt\csv2\383275.csv,Ireland,England,2009-08-27
+dt\csv2\385025.csv,Kenya,Zimbabwe,2009-01-31
+dt\csv2\385749.csv,Pakistan,Sri Lanka,2009-01-20
+dt\csv2\385750.csv,Pakistan,Sri Lanka,2009-01-21
+dt\csv2\385751.csv,Pakistan,Sri Lanka,2009-01-24
+dt\csv2\386530.csv,Sri Lanka,India,2009-01-28
+dt\csv2\386531.csv,Sri Lanka,India,2009-01-31
+dt\csv2\386532.csv,Sri Lanka,India,2009-02-03
+dt\csv2\386533.csv,Sri Lanka,India,2009-02-05
+dt\csv2\386534.csv,Sri Lanka,India,2009-02-08
+dt\csv2\387566.csv,South Africa,England,2009-11-22
+dt\csv2\387567.csv,South Africa,England,2009-11-27
+dt\csv2\387568.csv,South Africa,England,2009-11-29
+dt\csv2\390204.csv,Ireland,Scotland,2009-04-01
+dt\csv2\390227.csv,Canada,Scotland,2009-04-08
+dt\csv2\392616.csv,Australia,Pakistan,2009-04-22
+dt\csv2\392617.csv,Australia,Pakistan,2009-04-24
+dt\csv2\392618.csv,Australia,Pakistan,2009-04-27
+dt\csv2\392619.csv,Australia,Pakistan,2009-05-01
+dt\csv2\392620.csv,Australia,Pakistan,2009-05-03
+dt\csv2\401073.csv,West Indies,Bangladesh,2009-07-26
+dt\csv2\401074.csv,West Indies,Bangladesh,2009-07-28
+dt\csv2\401075.csv,West Indies,Bangladesh,2009-07-31
+dt\csv2\403370.csv,Sri Lanka,Pakistan,2009-07-30
+dt\csv2\403371.csv,Sri Lanka,Pakistan,2009-08-01
+dt\csv2\403372.csv,Sri Lanka,Pakistan,2009-08-03
+dt\csv2\403373.csv,Sri Lanka,Pakistan,2009-08-07
+dt\csv2\403374.csv,Sri Lanka,Pakistan,2009-08-09
+dt\csv2\403380.csv,Sri Lanka,New Zealand,2009-09-08
+dt\csv2\403381.csv,Sri Lanka,India,2009-09-12
+dt\csv2\403382.csv,India,New Zealand,2009-09-11
+dt\csv2\403383.csv,Sri Lanka,India,2009-09-14
+dt\csv2\406192.csv,Australia,West Indies,2010-02-07
+dt\csv2\406193.csv,Australia,West Indies,2010-02-09
+dt\csv2\406194.csv,Australia,West Indies,2010-02-12
+dt\csv2\406195.csv,Australia,West Indies,2010-02-14
+dt\csv2\406196.csv,Australia,West Indies,2010-02-19
+dt\csv2\406202.csv,Australia,Pakistan,2010-01-22
+dt\csv2\406203.csv,Australia,Pakistan,2010-01-24
+dt\csv2\406204.csv,Australia,Pakistan,2010-01-26
+dt\csv2\406205.csv,Australia,Pakistan,2010-01-29
+dt\csv2\406206.csv,Australia,Pakistan,2010-01-31
+dt\csv2\410337.csv,Zimbabwe,Bangladesh,2009-08-09
+dt\csv2\410338.csv,Zimbabwe,Bangladesh,2009-08-11
+dt\csv2\410339.csv,Zimbabwe,Bangladesh,2009-08-14
+dt\csv2\410340.csv,Zimbabwe,Bangladesh,2009-08-16
+dt\csv2\410341.csv,Zimbabwe,Bangladesh,2009-08-18
+dt\csv2\415162.csv,Canada,Kenya,2009-08-19
+dt\csv2\415273.csv,South Africa,Sri Lanka,2009-09-22
+dt\csv2\415274.csv,Pakistan,West Indies,2009-09-23
+dt\csv2\415275.csv,South Africa,New Zealand,2009-09-24
+dt\csv2\415276.csv,England,Sri Lanka,2009-09-25
+dt\csv2\415277.csv,Australia,West Indies,2009-09-26
+dt\csv2\415278.csv,India,Pakistan,2009-09-26
+dt\csv2\415279.csv,New Zealand,Sri Lanka,2009-09-27
+dt\csv2\415280.csv,South Africa,England,2009-09-27
+dt\csv2\415281.csv,Australia,India,2009-09-28
+dt\csv2\415282.csv,England,New Zealand,2009-09-29
+dt\csv2\415283.csv,Australia,Pakistan,2009-09-30
+dt\csv2\415284.csv,India,West Indies,2009-09-30
+dt\csv2\415285.csv,Australia,England,2009-10-02
+dt\csv2\415286.csv,New Zealand,Pakistan,2009-10-03
+dt\csv2\415287.csv,Australia,New Zealand,2009-10-05
+dt\csv2\416236.csv,India,Australia,2009-10-25
+dt\csv2\416237.csv,India,Australia,2009-10-28
+dt\csv2\416238.csv,India,Australia,2009-10-31
+dt\csv2\416239.csv,India,Australia,2009-11-02
+dt\csv2\416240.csv,India,Australia,2009-11-05
+dt\csv2\416241.csv,India,Australia,2009-11-08
+dt\csv2\422626.csv,Bangladesh,Zimbabwe,2009-10-27
+dt\csv2\422627.csv,Bangladesh,Zimbabwe,2009-10-29
+dt\csv2\422628.csv,Bangladesh,Zimbabwe,2009-10-31
+dt\csv2\422629.csv,Bangladesh,Zimbabwe,2009-11-03
+dt\csv2\422630.csv,Bangladesh,Zimbabwe,2009-11-05
+dt\csv2\423783.csv,New Zealand,Bangladesh,2010-02-05
+dt\csv2\423784.csv,New Zealand,Bangladesh,2010-02-08
+dt\csv2\423785.csv,New Zealand,Bangladesh,2010-02-11
+dt\csv2\423791.csv,New Zealand,Australia,2010-03-03
+dt\csv2\423792.csv,New Zealand,Australia,2010-03-06
+dt\csv2\423793.csv,New Zealand,Australia,2010-03-09
+dt\csv2\423794.csv,New Zealand,Australia,2010-03-11
+dt\csv2\423795.csv,New Zealand,Australia,2010-03-13
+dt\csv2\426384.csv,Ireland,Australia,2010-06-17
+dt\csv2\426387.csv,England,Australia,2010-06-22
+dt\csv2\426388.csv,England,Australia,2010-06-24
+dt\csv2\426389.csv,England,Australia,2010-06-27
+dt\csv2\426390.csv,England,Australia,2010-06-30
+dt\csv2\426391.csv,England,Australia,2010-07-03
+dt\csv2\426403.csv,England,Bangladesh,2010-07-08
+dt\csv2\426404.csv,England,Bangladesh,2010-07-10
+dt\csv2\426405.csv,England,Bangladesh,2010-07-12
+dt\csv2\426420.csv,Bangladesh,England,2010-02-28
+dt\csv2\426421.csv,Bangladesh,England,2010-03-02
+dt\csv2\426422.csv,Bangladesh,England,2010-03-05
+dt\csv2\426428.csv,England,Pakistan,2010-09-10
+dt\csv2\426429.csv,England,Pakistan,2010-09-12
+dt\csv2\426430.csv,England,Pakistan,2010-09-17
+dt\csv2\426431.csv,England,Pakistan,2010-09-20
+dt\csv2\426432.csv,England,Pakistan,2010-09-22
+dt\csv2\426720.csv,New Zealand,Pakistan,2009-11-03
+dt\csv2\426721.csv,New Zealand,Pakistan,2009-11-06
+dt\csv2\426722.csv,New Zealand,Pakistan,2009-11-09
+dt\csv2\430508.csv,South Africa,Zimbabwe,2009-11-08
+dt\csv2\430509.csv,South Africa,Zimbabwe,2009-11-10
+dt\csv2\430886.csv,India,Sri Lanka,2009-12-15
+dt\csv2\430887.csv,India,Sri Lanka,2009-12-18
+dt\csv2\430888.csv,India,Sri Lanka,2009-12-21
+dt\csv2\430889.csv,India,Sri Lanka,2009-12-24
+dt\csv2\430890.csv,India,Sri Lanka,2009-12-27
+dt\csv2\433558.csv,Bangladesh,India,2011-02-19
+dt\csv2\433559.csv,Kenya,New Zealand,2011-02-20
+dt\csv2\433560.csv,Sri Lanka,Canada,2011-02-20
+dt\csv2\433561.csv,Australia,Zimbabwe,2011-02-21
+dt\csv2\433562.csv,England,Netherlands,2011-02-22
+dt\csv2\433563.csv,Kenya,Pakistan,2011-02-23
+dt\csv2\433564.csv,South Africa,West Indies,2011-02-24
+dt\csv2\433565.csv,Australia,New Zealand,2011-02-25
+dt\csv2\433566.csv,Bangladesh,Ireland,2011-02-25
+dt\csv2\433567.csv,Sri Lanka,Pakistan,2011-02-26
+dt\csv2\433568.csv,India,England,2011-02-27
+dt\csv2\433569.csv,Netherlands,West Indies,2011-02-28
+dt\csv2\433570.csv,Canada,Zimbabwe,2011-02-28
+dt\csv2\433571.csv,Sri Lanka,Kenya,2011-03-01
+dt\csv2\433572.csv,England,Ireland,2011-03-02
+dt\csv2\433573.csv,Netherlands,South Africa,2011-03-03
+dt\csv2\433574.csv,Canada,Pakistan,2011-03-03
+dt\csv2\433575.csv,New Zealand,Zimbabwe,2011-03-04
+dt\csv2\433576.csv,Bangladesh,West Indies,2011-03-04
+dt\csv2\433577.csv,Sri Lanka,Australia,2011-03-05
+dt\csv2\433578.csv,India,Ireland,2011-03-06
+dt\csv2\433579.csv,England,South Africa,2011-03-06
+dt\csv2\433580.csv,Canada,Kenya,2011-03-07
+dt\csv2\433581.csv,New Zealand,Pakistan,2011-03-08
+dt\csv2\433582.csv,India,Netherlands,2011-03-09
+dt\csv2\433583.csv,Sri Lanka,Zimbabwe,2011-03-10
+dt\csv2\433584.csv,Ireland,West Indies,2011-03-11
+dt\csv2\433585.csv,Bangladesh,England,2011-03-11
+dt\csv2\433586.csv,India,South Africa,2011-03-12
+dt\csv2\433587.csv,Canada,New Zealand,2011-03-13
+dt\csv2\433588.csv,Australia,Kenya,2011-03-13
+dt\csv2\433589.csv,Pakistan,Zimbabwe,2011-03-14
+dt\csv2\433590.csv,Bangladesh,Netherlands,2011-03-14
+dt\csv2\433591.csv,Ireland,South Africa,2011-03-15
+dt\csv2\433592.csv,Australia,Canada,2011-03-16
+dt\csv2\433593.csv,England,West Indies,2011-03-17
+dt\csv2\433594.csv,New Zealand,Sri Lanka,2011-03-18
+dt\csv2\433595.csv,Ireland,Netherlands,2011-03-18
+dt\csv2\433596.csv,Australia,Pakistan,2011-03-19
+dt\csv2\433597.csv,Bangladesh,South Africa,2011-03-19
+dt\csv2\433598.csv,Kenya,Zimbabwe,2011-03-20
+dt\csv2\433599.csv,India,West Indies,2011-03-20
+dt\csv2\433600.csv,Pakistan,West Indies,2011-03-23
+dt\csv2\433601.csv,India,Australia,2011-03-24
+dt\csv2\433602.csv,New Zealand,South Africa,2011-03-25
+dt\csv2\433603.csv,Sri Lanka,England,2011-03-26
+dt\csv2\433604.csv,Sri Lanka,New Zealand,2011-03-29
+dt\csv2\433605.csv,India,Pakistan,2011-03-30
+dt\csv2\433606.csv,India,Sri Lanka,2011-04-02
+dt\csv2\434258.csv,Bangladesh,Sri Lanka,2010-01-04
+dt\csv2\434259.csv,India,Sri Lanka,2010-01-05
+dt\csv2\434260.csv,Bangladesh,India,2010-01-07
+dt\csv2\434261.csv,Bangladesh,Sri Lanka,2010-01-08
+dt\csv2\434262.csv,India,Sri Lanka,2010-01-10
+dt\csv2\434263.csv,Bangladesh,India,2010-01-11
+dt\csv2\434264.csv,India,Sri Lanka,2010-01-13
+dt\csv2\439140.csv,West Indies,Zimbabwe,2010-03-04
+dt\csv2\439141.csv,West Indies,Zimbabwe,2010-03-06
+dt\csv2\439142.csv,West Indies,Zimbabwe,2010-03-10
+dt\csv2\439143.csv,West Indies,Zimbabwe,2010-03-12
+dt\csv2\439144.csv,West Indies,Zimbabwe,2010-03-14
+dt\csv2\439147.csv,West Indies,South Africa,2010-05-22
+dt\csv2\439148.csv,West Indies,South Africa,2010-05-24
+dt\csv2\439149.csv,West Indies,South Africa,2010-05-28
+dt\csv2\439150.csv,West Indies,South Africa,2010-05-30
+dt\csv2\439151.csv,West Indies,South Africa,2010-06-03
+dt\csv2\441827.csv,India,South Africa,2010-02-21
+dt\csv2\441828.csv,India,South Africa,2010-02-24
+dt\csv2\441829.csv,India,South Africa,2010-02-27
+dt\csv2\446957.csv,Australia,Sri Lanka,2010-11-03
+dt\csv2\446958.csv,Australia,Sri Lanka,2010-11-05
+dt\csv2\446959.csv,Australia,Sri Lanka,2010-11-07
+dt\csv2\446962.csv,Australia,England,2011-01-16
+dt\csv2\446963.csv,Australia,England,2011-01-21
+dt\csv2\446964.csv,Australia,England,2011-01-23
+dt\csv2\446965.csv,Australia,England,2011-01-26
+dt\csv2\446966.csv,Australia,England,2011-01-30
+dt\csv2\446967.csv,Australia,England,2011-02-02
+dt\csv2\446968.csv,Australia,England,2011-02-06
+dt\csv2\450107.csv,Ireland,Bangladesh,2010-07-16
+dt\csv2\450379.csv,Canada,Ireland,2010-07-07
+dt\csv2\452146.csv,Zimbabwe,India,2010-05-28
+dt\csv2\452147.csv,India,Sri Lanka,2010-05-30
+dt\csv2\452148.csv,Zimbabwe,Sri Lanka,2010-06-01
+dt\csv2\452149.csv,Zimbabwe,India,2010-06-03
+dt\csv2\452150.csv,India,Sri Lanka,2010-06-05
+dt\csv2\452151.csv,Zimbabwe,Sri Lanka,2010-06-07
+dt\csv2\452152.csv,Zimbabwe,Sri Lanka,2010-06-09
+dt\csv2\455231.csv,Sri Lanka,Pakistan,2010-06-15
+dt\csv2\455232.csv,Bangladesh,India,2010-06-16
+dt\csv2\455233.csv,Sri Lanka,Bangladesh,2010-06-18
+dt\csv2\455234.csv,India,Pakistan,2010-06-19
+dt\csv2\455235.csv,Bangladesh,Pakistan,2010-06-21
+dt\csv2\455236.csv,Sri Lanka,India,2010-06-22
+dt\csv2\455237.csv,Sri Lanka,India,2010-06-24
+dt\csv2\456662.csv,India,New Zealand,2010-08-10
+dt\csv2\456663.csv,Sri Lanka,India,2010-08-16
+dt\csv2\456664.csv,Sri Lanka,New Zealand,2010-08-13
+dt\csv2\456665.csv,India,New Zealand,2010-08-25
+dt\csv2\456666.csv,Sri Lanka,India,2010-08-22
+dt\csv2\456668.csv,Sri Lanka,India,2010-08-28
+dt\csv2\461566.csv,Pakistan,South Africa,2010-10-29
+dt\csv2\461567.csv,Pakistan,South Africa,2010-10-31
+dt\csv2\461568.csv,Pakistan,South Africa,2010-11-02
+dt\csv2\461569.csv,Pakistan,South Africa,2010-11-05
+dt\csv2\461570.csv,Pakistan,South Africa,2010-11-08
+dt\csv2\463143.csv,South Africa,Zimbabwe,2010-10-15
+dt\csv2\463144.csv,South Africa,Zimbabwe,2010-10-17
+dt\csv2\463145.csv,South Africa,Zimbabwe,2010-10-22
+dt\csv2\463150.csv,South Africa,India,2011-01-12
+dt\csv2\463151.csv,South Africa,India,2011-01-15
+dt\csv2\463152.csv,South Africa,India,2011-01-18
+dt\csv2\463153.csv,South Africa,India,2011-01-21
+dt\csv2\463154.csv,South Africa,India,2011-01-23
+dt\csv2\464529.csv,India,Australia,2010-10-20
+dt\csv2\464720.csv,Ireland,Netherlands,2010-08-18
+dt\csv2\464723.csv,Canada,Ireland,2010-09-06
+dt\csv2\464990.csv,Sri Lanka,West Indies,2011-01-31
+dt\csv2\464991.csv,Sri Lanka,West Indies,2011-02-03
+dt\csv2\464992.csv,Sri Lanka,West Indies,2011-02-06
+dt\csv2\467883.csv,India,New Zealand,2010-11-28
+dt\csv2\467884.csv,India,New Zealand,2010-12-01
+dt\csv2\467885.csv,India,New Zealand,2010-12-04
+dt\csv2\467886.csv,India,New Zealand,2010-12-07
+dt\csv2\467887.csv,India,New Zealand,2010-12-10
+dt\csv2\473315.csv,Sri Lanka,New Zealand,2010-08-19
+dt\csv2\473923.csv,New Zealand,Pakistan,2011-01-22
+dt\csv2\473924.csv,New Zealand,Pakistan,2011-01-26
+dt\csv2\473925.csv,New Zealand,Pakistan,2011-01-29
+dt\csv2\473926.csv,New Zealand,Pakistan,2011-02-01
+dt\csv2\473927.csv,New Zealand,Pakistan,2011-02-03
+dt\csv2\473928.csv,New Zealand,Pakistan,2011-02-05
+dt\csv2\474467.csv,England,Sri Lanka,2011-06-28
+dt\csv2\474468.csv,England,Sri Lanka,2011-07-01
+dt\csv2\474469.csv,England,Sri Lanka,2011-07-03
+dt\csv2\474470.csv,England,Sri Lanka,2011-07-06
+dt\csv2\474471.csv,England,Sri Lanka,2011-07-09
+dt\csv2\474477.csv,England,India,2011-09-03
+dt\csv2\474478.csv,England,India,2011-09-06
+dt\csv2\474479.csv,England,India,2011-09-09
+dt\csv2\474480.csv,England,India,2011-09-11
+dt\csv2\474481.csv,England,India,2011-09-16
+dt\csv2\476596.csv,Bangladesh,New Zealand,2010-10-05
+dt\csv2\476598.csv,Bangladesh,New Zealand,2010-10-11
+dt\csv2\476599.csv,Bangladesh,New Zealand,2010-10-14
+dt\csv2\476600.csv,Bangladesh,New Zealand,2010-10-17
+dt\csv2\483126.csv,Ireland,England,2011-08-25
+dt\csv2\486520.csv,Bangladesh,Zimbabwe,2010-12-01
+dt\csv2\486522.csv,Bangladesh,Zimbabwe,2010-12-03
+dt\csv2\486523.csv,Bangladesh,Zimbabwe,2010-12-06
+dt\csv2\486526.csv,Bangladesh,Zimbabwe,2010-12-12
+dt\csv2\489213.csv,West Indies,Pakistan,2011-04-23
+dt\csv2\489214.csv,West Indies,Pakistan,2011-04-25
+dt\csv2\489215.csv,West Indies,Pakistan,2011-04-28
+dt\csv2\489216.csv,West Indies,Pakistan,2011-05-02
+dt\csv2\489217.csv,West Indies,Pakistan,2011-05-05
+dt\csv2\489221.csv,West Indies,India,2011-06-06
+dt\csv2\489222.csv,West Indies,India,2011-06-08
+dt\csv2\489223.csv,West Indies,India,2011-06-11
+dt\csv2\489224.csv,West Indies,India,2011-06-13
+dt\csv2\489225.csv,West Indies,India,2011-06-16
+dt\csv2\503363.csv,Bangladesh,Australia,2011-04-09
+dt\csv2\503364.csv,Bangladesh,Australia,2011-04-11
+dt\csv2\503365.csv,Bangladesh,Australia,2011-04-13
+dt\csv2\504779.csv,Scotland,Netherlands,2011-06-29
+dt\csv2\514025.csv,South Africa,Australia,2011-10-19
+dt\csv2\514026.csv,South Africa,Australia,2011-10-23
+dt\csv2\514027.csv,South Africa,Australia,2011-10-28
+dt\csv2\514035.csv,South Africa,Sri Lanka,2012-01-11
+dt\csv2\514036.csv,South Africa,Sri Lanka,2012-01-14
+dt\csv2\514037.csv,South Africa,Sri Lanka,2012-01-17
+dt\csv2\514038.csv,South Africa,Sri Lanka,2012-01-20
+dt\csv2\514039.csv,South Africa,Sri Lanka,2012-01-22
+dt\csv2\516206.csv,Sri Lanka,Australia,2011-08-10
+dt\csv2\516207.csv,Sri Lanka,Australia,2011-08-14
+dt\csv2\516208.csv,Sri Lanka,Australia,2011-08-16
+dt\csv2\516209.csv,Sri Lanka,Australia,2011-08-20
+dt\csv2\516210.csv,Sri Lanka,Australia,2011-08-22
+dt\csv2\518956.csv,Australia,India,2012-02-05
+dt\csv2\518957.csv,India,Sri Lanka,2012-02-08
+dt\csv2\518958.csv,Australia,Sri Lanka,2012-02-10
+dt\csv2\518959.csv,Australia,India,2012-02-12
+dt\csv2\518960.csv,India,Sri Lanka,2012-02-14
+dt\csv2\518961.csv,Australia,Sri Lanka,2012-02-17
+dt\csv2\518962.csv,Australia,India,2012-02-19
+dt\csv2\518963.csv,India,Sri Lanka,2012-02-21
+dt\csv2\518964.csv,Australia,Sri Lanka,2012-02-24
+dt\csv2\518965.csv,Australia,India,2012-02-26
+dt\csv2\518966.csv,India,Sri Lanka,2012-02-28
+dt\csv2\518967.csv,Australia,Sri Lanka,2012-03-02
+dt\csv2\518968.csv,Australia,Sri Lanka,2012-03-04
+dt\csv2\518969.csv,Australia,Sri Lanka,2012-03-06
+dt\csv2\518970.csv,Australia,Sri Lanka,2012-03-08
+dt\csv2\520592.csv,New Zealand,Zimbabwe,2012-02-03
+dt\csv2\520593.csv,New Zealand,Zimbabwe,2012-02-06
+dt\csv2\520594.csv,New Zealand,Zimbabwe,2012-02-09
+dt\csv2\520600.csv,New Zealand,South Africa,2012-02-25
+dt\csv2\520601.csv,New Zealand,South Africa,2012-02-29
+dt\csv2\520602.csv,New Zealand,South Africa,2012-03-03
+dt\csv2\521218.csv,India,England,2011-10-14
+dt\csv2\521219.csv,India,England,2011-10-17
+dt\csv2\521220.csv,India,England,2011-10-20
+dt\csv2\521221.csv,India,England,2011-10-23
+dt\csv2\521222.csv,India,England,2011-10-25
+dt\csv2\522246.csv,Zimbabwe,Bangladesh,2011-08-12
+dt\csv2\522247.csv,Zimbabwe,Bangladesh,2011-08-14
+dt\csv2\522248.csv,Zimbabwe,Bangladesh,2011-08-16
+dt\csv2\522249.csv,Zimbabwe,Bangladesh,2011-08-19
+dt\csv2\522250.csv,Zimbabwe,Bangladesh,2011-08-21
+dt\csv2\523732.csv,Zimbabwe,Pakistan,2011-09-08
+dt\csv2\523733.csv,Zimbabwe,Pakistan,2011-09-11
+dt\csv2\523734.csv,Zimbabwe,Pakistan,2011-09-14
+dt\csv2\523804.csv,Ireland,Canada,2011-09-19
+dt\csv2\523805.csv,Ireland,Canada,2011-09-20
+dt\csv2\527014.csv,Zimbabwe,New Zealand,2011-10-20
+dt\csv2\527015.csv,Zimbabwe,New Zealand,2011-10-22
+dt\csv2\527016.csv,Zimbabwe,New Zealand,2011-10-25
+dt\csv2\530427.csv,Pakistan,Sri Lanka,2011-11-11
+dt\csv2\530428.csv,Pakistan,Sri Lanka,2011-11-14
+dt\csv2\530429.csv,Pakistan,Sri Lanka,2011-11-18
+dt\csv2\530430.csv,Pakistan,Sri Lanka,2011-11-20
+dt\csv2\530431.csv,Pakistan,Sri Lanka,2011-11-23
+dt\csv2\531631.csv,England,Pakistan,2012-02-13
+dt\csv2\531632.csv,England,Pakistan,2012-02-15
+dt\csv2\531633.csv,England,Pakistan,2012-02-18
+dt\csv2\531634.csv,England,Pakistan,2012-02-21
+dt\csv2\531983.csv,Bangladesh,West Indies,2011-10-13
+dt\csv2\531984.csv,Bangladesh,West Indies,2011-10-15
+dt\csv2\531985.csv,Bangladesh,West Indies,2011-10-18
+dt\csv2\534209.csv,England,West Indies,2012-06-16
+dt\csv2\534210.csv,England,West Indies,2012-06-19
+dt\csv2\534214.csv,Ireland,Australia,2012-06-23
+dt\csv2\534215.csv,England,Australia,2012-06-29
+dt\csv2\534216.csv,England,Australia,2012-07-01
+dt\csv2\534218.csv,England,Australia,2012-07-07
+dt\csv2\534219.csv,England,Australia,2012-07-10
+dt\csv2\534228.csv,England,South Africa,2012-08-24
+dt\csv2\534229.csv,England,South Africa,2012-08-28
+dt\csv2\534230.csv,England,South Africa,2012-08-31
+dt\csv2\534231.csv,England,South Africa,2012-09-02
+dt\csv2\534232.csv,England,South Africa,2012-09-05
+dt\csv2\535794.csv,Bangladesh,Pakistan,2012-03-11
+dt\csv2\535795.csv,India,Sri Lanka,2012-03-13
+dt\csv2\535796.csv,Pakistan,Sri Lanka,2012-03-15
+dt\csv2\535797.csv,Bangladesh,India,2012-03-16
+dt\csv2\535798.csv,India,Pakistan,2012-03-18
+dt\csv2\535799.csv,Bangladesh,Sri Lanka,2012-03-20
+dt\csv2\535800.csv,Bangladesh,Pakistan,2012-03-22
+dt\csv2\536929.csv,India,West Indies,2011-11-29
+dt\csv2\536930.csv,India,West Indies,2011-12-02
+dt\csv2\536931.csv,India,West Indies,2011-12-05
+dt\csv2\536932.csv,India,West Indies,2011-12-08
+dt\csv2\536933.csv,India,West Indies,2011-12-11
+dt\csv2\538069.csv,Bangladesh,Pakistan,2011-12-01
+dt\csv2\538070.csv,Bangladesh,Pakistan,2011-12-03
+dt\csv2\538071.csv,Bangladesh,Pakistan,2011-12-06
+dt\csv2\540168.csv,West Indies,Australia,2012-03-16
+dt\csv2\540169.csv,West Indies,Australia,2012-03-18
+dt\csv2\540170.csv,West Indies,Australia,2012-03-20
+dt\csv2\540171.csv,West Indies,Australia,2012-03-23
+dt\csv2\540172.csv,West Indies,Australia,2012-03-25
+dt\csv2\543881.csv,Kenya,Ireland,2012-02-18
+dt\csv2\543882.csv,Kenya,Ireland,2012-02-20
+dt\csv2\560923.csv,West Indies,New Zealand,2012-07-05
+dt\csv2\560924.csv,West Indies,New Zealand,2012-07-07
+dt\csv2\560925.csv,West Indies,New Zealand,2012-07-11
+dt\csv2\560926.csv,West Indies,New Zealand,2012-07-14
+dt\csv2\560927.csv,West Indies,New Zealand,2012-07-16
+dt\csv2\562439.csv,Sri Lanka,Pakistan,2012-06-07
+dt\csv2\562440.csv,Sri Lanka,Pakistan,2012-06-09
+dt\csv2\562441.csv,Sri Lanka,Pakistan,2012-06-13
+dt\csv2\562442.csv,Sri Lanka,Pakistan,2012-06-16
+dt\csv2\562443.csv,Sri Lanka,Pakistan,2012-06-18
+dt\csv2\564781.csv,Sri Lanka,India,2012-07-21
+dt\csv2\564782.csv,Sri Lanka,India,2012-07-24
+dt\csv2\564783.csv,Sri Lanka,India,2012-07-28
+dt\csv2\564784.csv,Sri Lanka,India,2012-07-31
+dt\csv2\564785.csv,Sri Lanka,India,2012-08-04
+dt\csv2\565812.csv,India,England,2013-01-11
+dt\csv2\565813.csv,India,England,2013-01-15
+dt\csv2\565814.csv,India,England,2013-01-19
+dt\csv2\565815.csv,India,England,2013-01-23
+dt\csv2\565816.csv,India,England,2013-01-27
+dt\csv2\566923.csv,England,New Zealand,2013-05-31
+dt\csv2\566924.csv,England,New Zealand,2013-06-02
+dt\csv2\566925.csv,England,New Zealand,2013-06-05
+dt\csv2\566940.csv,Ireland,England,2013-09-03
+dt\csv2\566942.csv,England,Australia,2013-09-08
+dt\csv2\566943.csv,England,Australia,2013-09-11
+dt\csv2\566944.csv,England,Australia,2013-09-14
+dt\csv2\566945.csv,England,Australia,2013-09-16
+dt\csv2\566946.csv,England,South Africa,2013-06-19
+dt\csv2\566947.csv,India,Sri Lanka,2013-06-20
+dt\csv2\566948.csv,England,India,2013-06-23
+dt\csv2\567358.csv,South Africa,New Zealand,2013-01-19
+dt\csv2\567359.csv,South Africa,New Zealand,2013-01-22
+dt\csv2\567360.csv,South Africa,New Zealand,2013-01-25
+dt\csv2\567368.csv,South Africa,Pakistan,2013-03-10
+dt\csv2\567369.csv,South Africa,Pakistan,2013-03-15
+dt\csv2\567370.csv,South Africa,Pakistan,2013-03-17
+dt\csv2\567371.csv,South Africa,Pakistan,2013-03-21
+dt\csv2\567372.csv,South Africa,Pakistan,2013-03-24
+dt\csv2\569240.csv,New Zealand,England,2013-02-17
+dt\csv2\569241.csv,New Zealand,England,2013-02-20
+dt\csv2\569242.csv,New Zealand,England,2013-02-23
+dt\csv2\571145.csv,Australia,Pakistan,2012-08-28
+dt\csv2\571146.csv,Australia,Pakistan,2012-08-31
+dt\csv2\571147.csv,Australia,Pakistan,2012-09-03
+dt\csv2\573014.csv,Australia,Sri Lanka,2013-01-11
+dt\csv2\573015.csv,Australia,Sri Lanka,2013-01-13
+dt\csv2\573016.csv,Australia,Sri Lanka,2013-01-18
+dt\csv2\573017.csv,Australia,Sri Lanka,2013-01-20
+dt\csv2\573018.csv,Australia,Sri Lanka,2013-01-23
+dt\csv2\573022.csv,Australia,West Indies,2013-02-01
+dt\csv2\573023.csv,Australia,West Indies,2013-02-03
+dt\csv2\573024.csv,Australia,West Indies,2013-02-06
+dt\csv2\573025.csv,Australia,West Indies,2013-02-08
+dt\csv2\573026.csv,Australia,West Indies,2013-02-10
+dt\csv2\578614.csv,India,South Africa,2013-06-06
+dt\csv2\578615.csv,Pakistan,West Indies,2013-06-07
+dt\csv2\578616.csv,England,Australia,2013-06-08
+dt\csv2\578617.csv,New Zealand,Sri Lanka,2013-06-09
+dt\csv2\578618.csv,Pakistan,South Africa,2013-06-10
+dt\csv2\578619.csv,India,West Indies,2013-06-11
+dt\csv2\578620.csv,Australia,New Zealand,2013-06-12
+dt\csv2\578621.csv,England,Sri Lanka,2013-06-13
+dt\csv2\578622.csv,South Africa,West Indies,2013-06-14
+dt\csv2\578623.csv,India,Pakistan,2013-06-15
+dt\csv2\578624.csv,England,New Zealand,2013-06-16
+dt\csv2\578625.csv,Australia,Sri Lanka,2013-06-17
+dt\csv2\582188.csv,Sri Lanka,New Zealand,2012-11-04
+dt\csv2\582189.csv,Sri Lanka,New Zealand,2012-11-06
+dt\csv2\582190.csv,Sri Lanka,New Zealand,2012-11-10
+dt\csv2\582191.csv,Sri Lanka,New Zealand,2012-11-12
+dt\csv2\587471.csv,Bangladesh,West Indies,2012-11-30
+dt\csv2\587472.csv,Bangladesh,West Indies,2012-12-02
+dt\csv2\587473.csv,Bangladesh,West Indies,2012-12-05
+dt\csv2\587474.csv,Bangladesh,West Indies,2012-12-07
+dt\csv2\587475.csv,Bangladesh,West Indies,2012-12-08
+dt\csv2\589308.csv,India,Pakistan,2012-12-30
+dt\csv2\589309.csv,India,Pakistan,2013-01-03
+dt\csv2\589310.csv,India,Pakistan,2013-01-06
+dt\csv2\592266.csv,Canada,Kenya,2013-03-11
+dt\csv2\593983.csv,West Indies,Zimbabwe,2013-02-22
+dt\csv2\593985.csv,West Indies,Zimbabwe,2013-02-26
+dt\csv2\597923.csv,West Indies,Sri Lanka,2013-06-28
+dt\csv2\597924.csv,West Indies,India,2013-06-30
+dt\csv2\597925.csv,India,Sri Lanka,2013-07-02
+dt\csv2\597926.csv,West Indies,India,2013-07-05
+dt\csv2\597927.csv,West Indies,Sri Lanka,2013-07-07
+dt\csv2\597928.csv,India,Sri Lanka,2013-07-09
+dt\csv2\597929.csv,India,Sri Lanka,2013-07-11
+dt\csv2\601077.csv,Scotland,Pakistan,2013-05-17
+dt\csv2\601612.csv,Ireland,Pakistan,2013-05-23
+dt\csv2\601613.csv,Ireland,Pakistan,2013-05-26
+dt\csv2\602474.csv,Sri Lanka,Bangladesh,2013-03-23
+dt\csv2\602475.csv,Sri Lanka,Bangladesh,2013-03-25
+dt\csv2\602476.csv,Sri Lanka,Bangladesh,2013-03-28
+dt\csv2\623573.csv,Zimbabwe,Bangladesh,2013-05-03
+dt\csv2\623574.csv,Zimbabwe,Bangladesh,2013-05-05
+dt\csv2\623575.csv,Zimbabwe,Bangladesh,2013-05-08
+dt\csv2\631138.csv,Netherlands,Ireland,2013-07-07
+dt\csv2\635653.csv,Sri Lanka,South Africa,2013-07-20
+dt\csv2\635654.csv,Sri Lanka,South Africa,2013-07-23
+dt\csv2\635655.csv,Sri Lanka,South Africa,2013-07-26
+dt\csv2\635656.csv,Sri Lanka,South Africa,2013-07-28
+dt\csv2\635657.csv,Sri Lanka,South Africa,2013-07-31
+dt\csv2\636159.csv,Australia,England,2014-01-12
+dt\csv2\636160.csv,Australia,England,2014-01-17
+dt\csv2\636161.csv,Australia,England,2014-01-19
+dt\csv2\636162.csv,Australia,England,2014-01-24
+dt\csv2\636163.csv,Australia,England,2014-01-26
+dt\csv2\636533.csv,West Indies,England,2014-02-28
+dt\csv2\636534.csv,West Indies,England,2014-03-02
+dt\csv2\636535.csv,West Indies,England,2014-03-05
+dt\csv2\643665.csv,Zimbabwe,India,2013-07-24
+dt\csv2\643667.csv,Zimbabwe,India,2013-07-26
+dt\csv2\643669.csv,Zimbabwe,India,2013-07-28
+dt\csv2\643675.csv,Zimbabwe,India,2013-08-01
+dt\csv2\643677.csv,Zimbabwe,India,2013-08-03
+dt\csv2\645635.csv,West Indies,Pakistan,2013-07-14
+dt\csv2\645637.csv,West Indies,Pakistan,2013-07-16
+dt\csv2\645639.csv,West Indies,Pakistan,2013-07-19
+dt\csv2\645641.csv,West Indies,Pakistan,2013-07-21
+dt\csv2\645643.csv,West Indies,Pakistan,2013-07-24
+dt\csv2\647249.csv,India,Australia,2013-10-13
+dt\csv2\647251.csv,India,Australia,2013-10-16
+dt\csv2\647253.csv,India,Australia,2013-10-19
+dt\csv2\647255.csv,India,Australia,2013-10-23
+dt\csv2\647259.csv,India,Australia,2013-10-30
+dt\csv2\647261.csv,India,Australia,2013-11-02
+dt\csv2\648651.csv,South Africa,India,2013-12-05
+dt\csv2\648653.csv,South Africa,India,2013-12-08
+dt\csv2\648655.csv,South Africa,India,2013-12-11
+dt\csv2\649091.csv,Pakistan,South Africa,2013-10-30
+dt\csv2\649093.csv,Pakistan,South Africa,2013-11-01
+dt\csv2\649095.csv,Pakistan,South Africa,2013-11-06
+dt\csv2\649097.csv,Pakistan,South Africa,2013-11-08
+dt\csv2\649099.csv,Pakistan,South Africa,2013-11-11
+dt\csv2\656399.csv,New Zealand,Sri Lanka,2015-02-14
+dt\csv2\656401.csv,Australia,England,2015-02-14
+dt\csv2\656403.csv,South Africa,Zimbabwe,2015-02-15
+dt\csv2\656405.csv,India,Pakistan,2015-02-15
+dt\csv2\656407.csv,Ireland,West Indies,2015-02-16
+dt\csv2\656409.csv,New Zealand,Scotland,2015-02-17
+dt\csv2\656413.csv,United Arab Emirates,Zimbabwe,2015-02-19
+dt\csv2\656415.csv,New Zealand,England,2015-02-20
+dt\csv2\656417.csv,Pakistan,West Indies,2015-02-21
+dt\csv2\656423.csv,India,South Africa,2015-02-22
+dt\csv2\656425.csv,England,Scotland,2015-02-23
+dt\csv2\656427.csv,West Indies,Zimbabwe,2015-02-24
+dt\csv2\656429.csv,Ireland,United Arab Emirates,2015-02-25
+dt\csv2\656433.csv,Bangladesh,Sri Lanka,2015-02-26
+dt\csv2\656435.csv,South Africa,West Indies,2015-02-27
+dt\csv2\656437.csv,New Zealand,Australia,2015-02-28
+dt\csv2\656439.csv,India,United Arab Emirates,2015-02-28
+dt\csv2\656441.csv,England,Sri Lanka,2015-03-01
+dt\csv2\656443.csv,Pakistan,Zimbabwe,2015-03-01
+dt\csv2\656445.csv,Ireland,South Africa,2015-03-03
+dt\csv2\656447.csv,Pakistan,United Arab Emirates,2015-03-04
+dt\csv2\656451.csv,Bangladesh,Scotland,2015-03-05
+dt\csv2\656453.csv,India,West Indies,2015-03-06
+dt\csv2\656455.csv,Pakistan,South Africa,2015-03-07
+dt\csv2\656457.csv,Ireland,Zimbabwe,2015-03-07
+dt\csv2\656461.csv,Australia,Sri Lanka,2015-03-08
+dt\csv2\656463.csv,Bangladesh,England,2015-03-09
+dt\csv2\656465.csv,India,Ireland,2015-03-10
+dt\csv2\656467.csv,Scotland,Sri Lanka,2015-03-11
+dt\csv2\656469.csv,South Africa,United Arab Emirates,2015-03-12
+dt\csv2\656471.csv,New Zealand,Bangladesh,2015-03-13
+dt\csv2\656475.csv,India,Zimbabwe,2015-03-14
+dt\csv2\656477.csv,Australia,Scotland,2015-03-14
+dt\csv2\656479.csv,United Arab Emirates,West Indies,2015-03-15
+dt\csv2\656481.csv,Ireland,Pakistan,2015-03-15
+dt\csv2\656483.csv,South Africa,Sri Lanka,2015-03-18
+dt\csv2\656485.csv,Bangladesh,India,2015-03-19
+dt\csv2\656487.csv,Australia,Pakistan,2015-03-20
+dt\csv2\656489.csv,New Zealand,West Indies,2015-03-21
+dt\csv2\656491.csv,New Zealand,South Africa,2015-03-24
+dt\csv2\656493.csv,Australia,India,2015-03-26
+dt\csv2\656495.csv,Australia,New Zealand,2015-03-29
+dt\csv2\657637.csv,Pakistan,Sri Lanka,2013-12-18
+dt\csv2\657639.csv,Pakistan,Sri Lanka,2013-12-20
+dt\csv2\657641.csv,Pakistan,Sri Lanka,2013-12-22
+dt\csv2\657643.csv,Pakistan,Sri Lanka,2013-12-25
+dt\csv2\657645.csv,Pakistan,Sri Lanka,2013-12-27
+dt\csv2\659549.csv,Zimbabwe,Pakistan,2013-08-27
+dt\csv2\659551.csv,Zimbabwe,Pakistan,2013-08-29
+dt\csv2\659553.csv,Zimbabwe,Pakistan,2013-08-31
+dt\csv2\660825.csv,Canada,Netherlands,2013-08-27
+dt\csv2\660827.csv,Canada,Netherlands,2013-08-29
+dt\csv2\660837.csv,Ireland,Scotland,2013-09-06
+dt\csv2\661685.csv,New Zealand,West Indies,2013-12-26
+dt\csv2\661689.csv,New Zealand,West Indies,2014-01-01
+dt\csv2\661691.csv,New Zealand,West Indies,2014-01-04
+dt\csv2\661693.csv,New Zealand,West Indies,2014-01-08
+dt\csv2\667641.csv,New Zealand,India,2014-01-19
+dt\csv2\667643.csv,New Zealand,India,2014-01-22
+dt\csv2\667645.csv,New Zealand,India,2014-01-25
+dt\csv2\667647.csv,New Zealand,India,2014-01-28
+dt\csv2\667649.csv,New Zealand,India,2014-01-31
+dt\csv2\667723.csv,England,India,2014-08-27
+dt\csv2\667725.csv,England,India,2014-08-30
+dt\csv2\667727.csv,England,India,2014-09-02
+dt\csv2\667729.csv,England,India,2014-09-05
+dt\csv2\667889.csv,England,Sri Lanka,2014-05-22
+dt\csv2\667891.csv,England,Sri Lanka,2014-05-25
+dt\csv2\667893.csv,England,Sri Lanka,2014-05-28
+dt\csv2\667895.csv,England,Sri Lanka,2014-05-31
+dt\csv2\667897.csv,England,Sri Lanka,2014-06-03
+dt\csv2\668953.csv,Bangladesh,New Zealand,2013-10-29
+dt\csv2\668955.csv,Bangladesh,New Zealand,2013-10-31
+dt\csv2\668957.csv,Bangladesh,New Zealand,2013-11-03
+dt\csv2\668961.csv,Sri Lanka,New Zealand,2013-11-10
+dt\csv2\668963.csv,Sri Lanka,New Zealand,2013-11-12
+dt\csv2\668965.csv,Sri Lanka,New Zealand,2013-11-16
+dt\csv2\676529.csv,India,West Indies,2013-11-21
+dt\csv2\676531.csv,India,West Indies,2013-11-24
+dt\csv2\676533.csv,India,West Indies,2013-11-27
+dt\csv2\684679.csv,Scotland,England,2014-05-09
+dt\csv2\685731.csv,South Africa,Pakistan,2013-11-24
+dt\csv2\685733.csv,South Africa,Pakistan,2013-11-27
+dt\csv2\685735.csv,South Africa,Pakistan,2013-11-30
+dt\csv2\690355.csv,Bangladesh,Sri Lanka,2014-02-17
+dt\csv2\690357.csv,Bangladesh,Sri Lanka,2014-02-20
+dt\csv2\690359.csv,Bangladesh,Sri Lanka,2014-02-22
+dt\csv2\696731.csv,Scotland,Canada,2014-01-23
+dt\csv2\696733.csv,Netherlands,Kenya,2014-01-23
+dt\csv2\696747.csv,Canada,Netherlands,2014-01-28
+dt\csv2\696759.csv,Kenya,Scotland,2014-01-30
+dt\csv2\702139.csv,West Indies,Ireland,2014-02-23
+dt\csv2\706767.csv,Sri Lanka,Ireland,2014-05-06
+dt\csv2\710291.csv,Pakistan,Sri Lanka,2014-02-25
+dt\csv2\710293.csv,Bangladesh,India,2014-02-26
+dt\csv2\710297.csv,India,Sri Lanka,2014-02-28
+dt\csv2\710301.csv,India,Pakistan,2014-03-02
+dt\csv2\710305.csv,Bangladesh,Pakistan,2014-03-04
+dt\csv2\710309.csv,Bangladesh,Sri Lanka,2014-03-06
+dt\csv2\710311.csv,Pakistan,Sri Lanka,2014-03-08
+dt\csv2\722339.csv,South Africa,West Indies,2015-01-16
+dt\csv2\722341.csv,South Africa,West Indies,2015-01-18
+dt\csv2\722343.csv,South Africa,West Indies,2015-01-21
+dt\csv2\722345.csv,South Africa,West Indies,2015-01-25
+dt\csv2\722347.csv,South Africa,West Indies,2015-01-28
+dt\csv2\727919.csv,Australia,Pakistan,2014-10-07
+dt\csv2\727921.csv,Australia,Pakistan,2014-10-10
+dt\csv2\727923.csv,Australia,Pakistan,2014-10-12
+dt\csv2\727935.csv,Ireland,Scotland,2014-09-08
+dt\csv2\727937.csv,Ireland,Scotland,2014-09-10
+dt\csv2\727939.csv,Ireland,Scotland,2014-09-12
+dt\csv2\730083.csv,Sri Lanka,South Africa,2014-07-06
+dt\csv2\730085.csv,Sri Lanka,South Africa,2014-07-09
+dt\csv2\730087.csv,Sri Lanka,South Africa,2014-07-12
+dt\csv2\730287.csv,West Indies,Bangladesh,2014-08-20
+dt\csv2\730289.csv,West Indies,Bangladesh,2014-08-22
+dt\csv2\730291.csv,West Indies,Bangladesh,2014-08-25
+dt\csv2\736437.csv,Zimbabwe,South Africa,2014-08-17
+dt\csv2\736439.csv,Zimbabwe,South Africa,2014-08-19
+dt\csv2\736441.csv,Zimbabwe,South Africa,2014-08-21
+dt\csv2\736443.csv,Zimbabwe,Australia,2014-08-25
+dt\csv2\736445.csv,Australia,South Africa,2014-08-27
+dt\csv2\736447.csv,Zimbabwe,South Africa,2014-08-29
+dt\csv2\736449.csv,Zimbabwe,Australia,2014-08-31
+dt\csv2\736451.csv,Australia,South Africa,2014-09-02
+dt\csv2\736453.csv,Zimbabwe,South Africa,2014-09-04
+dt\csv2\736455.csv,Australia,South Africa,2014-09-06
+dt\csv2\736511.csv,Hong Kong,United Arab Emirates,2014-05-04
+dt\csv2\742619.csv,New Zealand,Pakistan,2014-12-08
+dt\csv2\742621.csv,New Zealand,Pakistan,2014-12-12
+dt\csv2\742623.csv,New Zealand,Pakistan,2014-12-14
+dt\csv2\742625.csv,New Zealand,Pakistan,2014-12-17
+dt\csv2\742627.csv,New Zealand,Pakistan,2014-12-19
+dt\csv2\743943.csv,England,New Zealand,2015-06-09
+dt\csv2\743945.csv,England,New Zealand,2015-06-12
+dt\csv2\743947.csv,England,New Zealand,2015-06-14
+dt\csv2\743949.csv,England,New Zealand,2015-06-17
+dt\csv2\743951.csv,England,New Zealand,2015-06-20
+dt\csv2\743973.csv,Ireland,Australia,2015-08-27
+dt\csv2\743977.csv,England,Australia,2015-09-03
+dt\csv2\743979.csv,England,Australia,2015-09-05
+dt\csv2\743981.csv,England,Australia,2015-09-08
+dt\csv2\743983.csv,England,Australia,2015-09-11
+dt\csv2\743985.csv,England,Australia,2015-09-13
+dt\csv2\744679.csv,Bangladesh,India,2014-06-15
+dt\csv2\744681.csv,Bangladesh,India,2014-06-17
+dt\csv2\744683.csv,Bangladesh,India,2014-06-19
+dt\csv2\745159.csv,Sri Lanka,Pakistan,2014-08-23
+dt\csv2\745161.csv,Sri Lanka,Pakistan,2014-08-26
+dt\csv2\745163.csv,Sri Lanka,Pakistan,2014-08-30
+dt\csv2\749771.csv,New Zealand,South Africa,2014-10-21
+dt\csv2\749773.csv,New Zealand,South Africa,2014-10-24
+dt\csv2\749775.csv,New Zealand,South Africa,2014-10-27
+dt\csv2\749781.csv,New Zealand,Sri Lanka,2015-01-11
+dt\csv2\749783.csv,New Zealand,Sri Lanka,2015-01-15
+dt\csv2\749785.csv,New Zealand,Sri Lanka,2015-01-17
+dt\csv2\749787.csv,New Zealand,Sri Lanka,2015-01-20
+dt\csv2\749789.csv,New Zealand,Sri Lanka,2015-01-23
+dt\csv2\749791.csv,New Zealand,Sri Lanka,2015-01-25
+dt\csv2\749793.csv,New Zealand,Sri Lanka,2015-01-29
+dt\csv2\749795.csv,New Zealand,Pakistan,2015-01-31
+dt\csv2\749797.csv,New Zealand,Pakistan,2015-02-03
+dt\csv2\750663.csv,Sri Lanka,England,2014-11-26
+dt\csv2\750665.csv,Sri Lanka,England,2014-11-29
+dt\csv2\750667.csv,Sri Lanka,England,2014-12-03
+dt\csv2\750669.csv,Sri Lanka,England,2014-12-07
+dt\csv2\750671.csv,Sri Lanka,England,2014-12-10
+dt\csv2\750673.csv,Sri Lanka,England,2014-12-13
+dt\csv2\750675.csv,Sri Lanka,England,2014-12-16
+dt\csv2\754723.csv,Australia,South Africa,2014-11-14
+dt\csv2\754725.csv,Australia,South Africa,2014-11-16
+dt\csv2\754727.csv,Australia,South Africa,2014-11-19
+dt\csv2\754729.csv,Australia,South Africa,2014-11-21
+dt\csv2\754731.csv,Australia,South Africa,2014-11-23
+dt\csv2\754749.csv,Australia,India,2015-01-18
+dt\csv2\754751.csv,Australia,England,2015-01-16
+dt\csv2\754753.csv,England,India,2015-01-20
+dt\csv2\754755.csv,Australia,England,2015-01-23
+dt\csv2\754757.csv,Australia,India,2015-01-26
+dt\csv2\754759.csv,England,India,2015-01-30
+dt\csv2\754761.csv,Australia,England,2015-02-01
+dt\csv2\760787.csv,Bangladesh,Zimbabwe,2014-11-21
+dt\csv2\760789.csv,Bangladesh,Zimbabwe,2014-11-23
+dt\csv2\760791.csv,Bangladesh,Zimbabwe,2014-11-26
+dt\csv2\760793.csv,Bangladesh,Zimbabwe,2014-11-28
+dt\csv2\760795.csv,Bangladesh,Zimbabwe,2014-12-01
+dt\csv2\760889.csv,Ireland,England,2015-05-08
+dt\csv2\770121.csv,India,West Indies,2014-10-08
+dt\csv2\770123.csv,India,West Indies,2014-10-11
+dt\csv2\770127.csv,India,West Indies,2014-10-17
+dt\csv2\792289.csv,India,Sri Lanka,2014-11-02
+dt\csv2\792291.csv,India,Sri Lanka,2014-11-06
+dt\csv2\792293.csv,India,Sri Lanka,2014-11-09
+dt\csv2\792295.csv,India,Sri Lanka,2014-11-13
+dt\csv2\792297.csv,India,Sri Lanka,2014-11-16
+dt\csv2\800469.csv,South Africa,England,2016-02-03
+dt\csv2\800471.csv,South Africa,England,2016-02-06
+dt\csv2\800473.csv,South Africa,England,2016-02-09
+dt\csv2\800475.csv,South Africa,England,2016-02-12
+dt\csv2\800477.csv,South Africa,England,2016-02-14
+dt\csv2\810829.csv,Ireland,Scotland,2015-01-12
+dt\csv2\817207.csv,Bangladesh,South Africa,2015-07-10
+dt\csv2\817209.csv,Bangladesh,South Africa,2015-07-12
+dt\csv2\817211.csv,Bangladesh,South Africa,2015-07-15
+dt\csv2\848843.csv,South Africa,New Zealand,2015-08-19
+dt\csv2\848845.csv,South Africa,New Zealand,2015-08-23
+dt\csv2\848847.csv,South Africa,New Zealand,2015-08-26
+dt\csv2\858485.csv,Bangladesh,Pakistan,2015-04-17
+dt\csv2\858487.csv,Bangladesh,Pakistan,2015-04-19
+dt\csv2\858489.csv,Bangladesh,Pakistan,2015-04-22
+dt\csv2\860269.csv,Sri Lanka,Pakistan,2015-07-11
+dt\csv2\860271.csv,Sri Lanka,Pakistan,2015-07-15
+dt\csv2\860273.csv,Sri Lanka,Pakistan,2015-07-19
+dt\csv2\860275.csv,Sri Lanka,Pakistan,2015-07-22
+dt\csv2\860277.csv,Sri Lanka,Pakistan,2015-07-26
+dt\csv2\868727.csv,Pakistan,Zimbabwe,2015-05-26
+dt\csv2\868729.csv,Pakistan,Zimbabwe,2015-05-29
+dt\csv2\868731.csv,Pakistan,Zimbabwe,2015-05-31
+dt\csv2\870731.csv,Bangladesh,India,2015-06-18
+dt\csv2\870733.csv,Bangladesh,India,2015-06-21
+dt\csv2\870735.csv,Bangladesh,India,2015-06-24
+dt\csv2\885959.csv,Zimbabwe,India,2015-07-10
+dt\csv2\885965.csv,Zimbabwe,India,2015-07-12
+dt\csv2\885967.csv,Zimbabwe,India,2015-07-14
+dt\csv2\894287.csv,Zimbabwe,New Zealand,2015-08-02
+dt\csv2\894289.csv,Zimbabwe,New Zealand,2015-08-04
+dt\csv2\894291.csv,Zimbabwe,New Zealand,2015-08-07
+dt\csv2\895807.csv,Australia,India,2016-01-12
+dt\csv2\895809.csv,Australia,India,2016-01-15
+dt\csv2\895811.csv,Australia,India,2016-01-17
+dt\csv2\895813.csv,Australia,India,2016-01-20
+dt\csv2\895815.csv,Australia,India,2016-01-23
+dt\csv2\902641.csv,England,Pakistan,2015-11-11
+dt\csv2\902643.csv,England,Pakistan,2015-11-13
+dt\csv2\902645.csv,England,Pakistan,2015-11-17
+dt\csv2\902647.csv,England,Pakistan,2015-11-20
+dt\csv2\903593.csv,India,South Africa,2015-10-11
+dt\csv2\903595.csv,India,South Africa,2015-10-14
+dt\csv2\903597.csv,India,South Africa,2015-10-18
+dt\csv2\903599.csv,India,South Africa,2015-10-22
+dt\csv2\903601.csv,India,South Africa,2015-10-25
+dt\csv2\911049.csv,United Arab Emirates,Hong Kong,2015-11-16
+dt\csv2\913621.csv,Ireland,Sri Lanka,2016-06-18
+dt\csv2\913623.csv,England,Sri Lanka,2016-06-21
+dt\csv2\913625.csv,England,Sri Lanka,2016-06-24
+dt\csv2\913627.csv,England,Sri Lanka,2016-06-26
+dt\csv2\913629.csv,England,Sri Lanka,2016-06-29
+dt\csv2\913631.csv,England,Sri Lanka,2016-07-02
+dt\csv2\913649.csv,Ireland,Pakistan,2016-08-18
+dt\csv2\913653.csv,England,Pakistan,2016-08-24
+dt\csv2\913655.csv,England,Pakistan,2016-08-27
+dt\csv2\913657.csv,England,Pakistan,2016-08-30
+dt\csv2\913659.csv,England,Pakistan,2016-09-01
+dt\csv2\913661.csv,England,Pakistan,2016-09-04
+dt\csv2\914207.csv,New Zealand,Sri Lanka,2015-12-26
+dt\csv2\914209.csv,New Zealand,Sri Lanka,2015-12-28
+dt\csv2\914211.csv,New Zealand,Sri Lanka,2015-12-31
+dt\csv2\914213.csv,New Zealand,Sri Lanka,2016-01-02
+dt\csv2\914215.csv,New Zealand,Sri Lanka,2016-01-05
+dt\csv2\914227.csv,New Zealand,Pakistan,2016-01-25
+dt\csv2\914231.csv,New Zealand,Australia,2016-02-03
+dt\csv2\914233.csv,New Zealand,Australia,2016-02-06
+dt\csv2\914235.csv,New Zealand,Australia,2016-02-08
+dt\csv2\914265.csv,New Zealand,Pakistan,2016-01-31
+dt\csv2\915777.csv,Sri Lanka,West Indies,2015-11-01
+dt\csv2\915779.csv,Sri Lanka,West Indies,2015-11-04
+dt\csv2\915781.csv,Sri Lanka,West Indies,2015-11-07
+dt\csv2\919607.csv,Zimbabwe,Pakistan,2015-10-01
+dt\csv2\919609.csv,Zimbabwe,Pakistan,2015-10-03
+dt\csv2\919611.csv,Zimbabwe,Pakistan,2015-10-05
+dt\csv2\919613.csv,Zimbabwe,Ireland,2015-10-09
+dt\csv2\919615.csv,Zimbabwe,Ireland,2015-10-11
+dt\csv2\919617.csv,Zimbabwe,Ireland,2015-10-13
+dt\csv2\931390.csv,Bangladesh,Zimbabwe,2015-11-07
+dt\csv2\931392.csv,Bangladesh,Zimbabwe,2015-11-09
+dt\csv2\931394.csv,Bangladesh,Zimbabwe,2015-11-11
+dt\csv2\932849.csv,West Indies,South Africa,2016-06-03
+dt\csv2\932851.csv,West Indies,Australia,2016-06-05
+dt\csv2\932853.csv,Australia,South Africa,2016-06-07
+dt\csv2\932855.csv,Australia,South Africa,2016-06-11
+dt\csv2\932857.csv,West Indies,Australia,2016-06-13
+dt\csv2\932859.csv,West Indies,South Africa,2016-06-15
+dt\csv2\932861.csv,Australia,South Africa,2016-06-19
+dt\csv2\932863.csv,West Indies,Australia,2016-06-21
+dt\csv2\932865.csv,West Indies,South Africa,2016-06-24
+dt\csv2\932867.csv,West Indies,Australia,2016-06-26
+dt\csv2\936131.csv,South Africa,Ireland,2016-09-25
+dt\csv2\936133.csv,Australia,Ireland,2016-09-27
+dt\csv2\936135.csv,South Africa,Australia,2016-09-30
+dt\csv2\936137.csv,South Africa,Australia,2016-10-02
+dt\csv2\936139.csv,South Africa,Australia,2016-10-05
+dt\csv2\936141.csv,South Africa,Australia,2016-10-09
+dt\csv2\936143.csv,South Africa,Australia,2016-10-12
+dt\csv2\936159.csv,South Africa,Sri Lanka,2017-01-28
+dt\csv2\936161.csv,South Africa,Sri Lanka,2017-02-01
+dt\csv2\936163.csv,South Africa,Sri Lanka,2017-02-04
+dt\csv2\936165.csv,South Africa,Sri Lanka,2017-02-07
+dt\csv2\936167.csv,South Africa,Sri Lanka,2017-02-10
+dt\csv2\995457.csv,Sri Lanka,Australia,2016-08-21
+dt\csv2\995459.csv,Sri Lanka,Australia,2016-08-24
+dt\csv2\995461.csv,Sri Lanka,Australia,2016-08-28
+dt\csv2\995463.csv,Sri Lanka,Australia,2016-08-31
+dt\csv2\995465.csv,Sri Lanka,Australia,2016-09-04
+dt\csv2\997993.csv,Scotland,United Arab Emirates,2016-08-14
+dt\csv2\997995.csv,Scotland,United Arab Emirates,2016-08-16
+dt\csv3\1000887.csv,Australia,Pakistan,2017-01-13
+dt\csv3\1000889.csv,Australia,Pakistan,2017-01-15
+dt\csv3\1000891.csv,Australia,Pakistan,2017-01-19
+dt\csv3\1000893.csv,Australia,Pakistan,2017-01-22
+dt\csv3\1000895.csv,Australia,Pakistan,2017-01-26
+dt\csv3\1001371.csv,Australia,New Zealand,2016-12-04
+dt\csv3\1001373.csv,Australia,New Zealand,2016-12-06
+dt\csv3\1001375.csv,Australia,New Zealand,2016-12-09
+dt\csv3\1004283.csv,Scotland,Hong Kong,2016-09-08
+dt\csv3\1004285.csv,Scotland,Hong Kong,2016-09-10
+dt\csv3\1007649.csv,Zimbabwe,India,2016-06-11
+dt\csv3\1007651.csv,Zimbabwe,India,2016-06-13
+dt\csv3\1007653.csv,Zimbabwe,India,2016-06-15
+dt\csv3\1019973.csv,New Zealand,Bangladesh,2016-12-26
+dt\csv3\1019975.csv,New Zealand,Bangladesh,2016-12-29
+dt\csv3\1019977.csv,New Zealand,Bangladesh,2016-12-31
+dt\csv3\1020013.csv,New Zealand,Australia,2017-01-30
+dt\csv3\1020017.csv,New Zealand,Australia,2017-02-05
+dt\csv3\1020031.csv,New Zealand,South Africa,2017-02-19
+dt\csv3\1020033.csv,New Zealand,South Africa,2017-02-22
+dt\csv3\1020035.csv,New Zealand,South Africa,2017-02-25
+dt\csv3\1020037.csv,New Zealand,South Africa,2017-03-01
+dt\csv3\1020039.csv,New Zealand,South Africa,2017-03-04
+dt\csv3\1022347.csv,England,Bangladesh,2017-06-01
+dt\csv3\1022349.csv,Australia,New Zealand,2017-06-02
+dt\csv3\1022351.csv,South Africa,Sri Lanka,2017-06-03
+dt\csv3\1022353.csv,India,Pakistan,2017-06-04
+dt\csv3\1022355.csv,Australia,Bangladesh,2017-06-05
+dt\csv3\1022357.csv,England,New Zealand,2017-06-06
+dt\csv3\1022359.csv,Pakistan,South Africa,2017-06-07
+dt\csv3\1022361.csv,India,Sri Lanka,2017-06-08
+dt\csv3\1022363.csv,Bangladesh,New Zealand,2017-06-09
+dt\csv3\1022365.csv,England,Australia,2017-06-10
+dt\csv3\1022367.csv,India,South Africa,2017-06-11
+dt\csv3\1022369.csv,Pakistan,Sri Lanka,2017-06-12
+dt\csv3\1022371.csv,England,Pakistan,2017-06-14
+dt\csv3\1022373.csv,Bangladesh,India,2017-06-15
+dt\csv3\1022375.csv,India,Pakistan,2017-06-18
+dt\csv3\1026847.csv,Hong Kong,Papua New Guinea,2016-11-04
+dt\csv3\1026849.csv,Hong Kong,Papua New Guinea,2016-11-06
+dt\csv3\1026851.csv,Hong Kong,Papua New Guinea,2016-11-08
+dt\csv3\1027315.csv,West Indies,England,2017-03-03
+dt\csv3\1027317.csv,West Indies,England,2017-03-05
+dt\csv3\1027319.csv,West Indies,England,2017-03-09
+dt\csv3\1029001.csv,England,Ireland,2017-05-05
+dt\csv3\1029003.csv,England,Ireland,2017-05-07
+dt\csv3\1029819.csv,Bangladesh,England,2016-10-07
+dt\csv3\1029821.csv,Bangladesh,England,2016-10-09
+dt\csv3\1029823.csv,Bangladesh,England,2016-10-12
+dt\csv3\1030219.csv,India,New Zealand,2016-10-16
+dt\csv3\1030221.csv,India,New Zealand,2016-10-20
+dt\csv3\1030223.csv,India,New Zealand,2016-10-23
+dt\csv3\1030225.csv,India,New Zealand,2016-10-26
+dt\csv3\1030227.csv,India,New Zealand,2016-10-29
+dt\csv3\1031425.csv,England,South Africa,2017-05-24
+dt\csv3\1031427.csv,England,South Africa,2017-05-27
+dt\csv3\1031429.csv,England,South Africa,2017-05-29
+dt\csv3\1031667.csv,West Indies,England,2017-09-19
+dt\csv3\1031669.csv,England,West Indies,2017-09-21
+dt\csv3\1031671.csv,England,West Indies,2017-09-24
+dt\csv3\1031673.csv,West Indies,England,2017-09-27
+dt\csv3\1031675.csv,West Indies,England,2017-09-29
+dt\csv3\1033361.csv,Ireland,Bangladesh,2017-05-12
+dt\csv3\1033363.csv,Ireland,New Zealand,2017-05-14
+dt\csv3\1033365.csv,Bangladesh,New Zealand,2017-05-17
+dt\csv3\1033367.csv,Ireland,Bangladesh,2017-05-19
+dt\csv3\1033369.csv,Ireland,New Zealand,2017-05-21
+dt\csv3\1033371.csv,Bangladesh,New Zealand,2017-05-24
+dt\csv3\1034819.csv,India,England,2017-01-15
+dt\csv3\1034821.csv,India,England,2017-01-19
+dt\csv3\1034823.csv,India,England,2017-01-22
+dt\csv3\1050223.csv,Pakistan,West Indies,2016-09-30
+dt\csv3\1050225.csv,Pakistan,West Indies,2016-10-02
+dt\csv3\1050227.csv,Pakistan,West Indies,2016-10-05
+dt\csv3\1059710.csv,Zimbabwe,Sri Lanka,2016-11-14
+dt\csv3\1059711.csv,Sri Lanka,West Indies,2016-11-16
+dt\csv3\1059712.csv,Zimbabwe,West Indies,2016-11-19
+dt\csv3\1059713.csv,Zimbabwe,Sri Lanka,2016-11-21
+dt\csv3\1059714.csv,Sri Lanka,West Indies,2016-11-23
+dt\csv3\1059715.csv,Zimbabwe,West Indies,2016-11-25
+dt\csv3\1059716.csv,Zimbabwe,Sri Lanka,2016-11-27
+dt\csv3\1068737.csv,United Arab Emirates,Papua New Guinea,2017-04-02
+dt\csv3\1072310.csv,Australia,England,2018-01-14
+dt\csv3\1072311.csv,Australia,England,2018-01-19
+dt\csv3\1072312.csv,England,Australia,2018-01-21
+dt\csv3\1072313.csv,England,Australia,2018-01-26
+dt\csv3\1072314.csv,England,Australia,2018-01-28
+dt\csv3\1075504.csv,Bangladesh,South Africa,2017-10-15
+dt\csv3\1075505.csv,South Africa,Bangladesh,2017-10-18
+dt\csv3\1075506.csv,South Africa,Bangladesh,2017-10-22
+dt\csv3\1077949.csv,West Indies,Pakistan,2017-04-07
+dt\csv3\1077950.csv,West Indies,Pakistan,2017-04-09
+dt\csv3\1077951.csv,West Indies,Pakistan,2017-04-11
+dt\csv3\1078659.csv,Hong Kong,Scotland,2017-01-22
+dt\csv3\1078660.csv,United Arab Emirates,Scotland,2017-01-24
+dt\csv3\1078661.csv,United Arab Emirates,Hong Kong,2017-01-26
+dt\csv3\1080630.csv,United Arab Emirates,Ireland,2017-03-02
+dt\csv3\1080631.csv,United Arab Emirates,Ireland,2017-03-04
+dt\csv3\1083446.csv,Sri Lanka,Bangladesh,2017-03-25
+dt\csv3\1083447.csv,Sri Lanka,Bangladesh,2017-03-28
+dt\csv3\1083448.csv,Sri Lanka,Bangladesh,2017-04-01
+dt\csv3\1089183.csv,United Arab Emirates,Papua New Guinea,2017-04-04
+dt\csv3\1089419.csv,Scotland,Zimbabwe,2017-06-15
+dt\csv3\1089420.csv,Scotland,Zimbabwe,2017-06-17
+dt\csv3\1098206.csv,West Indies,India,2017-06-23
+dt\csv3\1098207.csv,West Indies,India,2017-06-25
+dt\csv3\1098208.csv,West Indies,India,2017-06-30
+dt\csv3\1098209.csv,West Indies,India,2017-07-02
+dt\csv3\1098210.csv,West Indies,India,2017-07-06
+dt\csv3\1104478.csv,Sri Lanka,Zimbabwe,2017-06-30
+dt\csv3\1104479.csv,Sri Lanka,Zimbabwe,2017-07-02
+dt\csv3\1104480.csv,Sri Lanka,Zimbabwe,2017-07-06
+dt\csv3\1104481.csv,Sri Lanka,Zimbabwe,2017-07-08
+dt\csv3\1104482.csv,Sri Lanka,Zimbabwe,2017-07-10
+dt\csv3\1109605.csv,Sri Lanka,India,2017-08-20
+dt\csv3\1109606.csv,Sri Lanka,India,2017-08-24
+dt\csv3\1109607.csv,Sri Lanka,India,2017-08-27
+dt\csv3\1109608.csv,India,Sri Lanka,2017-08-31
+dt\csv3\1109609.csv,Sri Lanka,India,2017-09-03
+dt\csv3\1115775.csv,England,New Zealand,2018-02-25
+dt\csv3\1115776.csv,New Zealand,England,2018-02-28
+dt\csv3\1115777.csv,England,New Zealand,2018-03-03
+dt\csv3\1115778.csv,England,New Zealand,2018-03-07
+dt\csv3\1115779.csv,New Zealand,England,2018-03-10
+dt\csv3\1115795.csv,West Indies,New Zealand,2017-12-20
+dt\csv3\1115796.csv,New Zealand,West Indies,2017-12-23
+dt\csv3\1115797.csv,New Zealand,West Indies,2017-12-26
+dt\csv3\1115802.csv,New Zealand,Pakistan,2018-01-06
+dt\csv3\1115803.csv,Pakistan,New Zealand,2018-01-09
+dt\csv3\1115804.csv,New Zealand,Pakistan,2018-01-13
+dt\csv3\1115805.csv,Pakistan,New Zealand,2018-01-16
+dt\csv3\1115806.csv,New Zealand,Pakistan,2018-01-19
+dt\csv3\1119496.csv,India,Australia,2017-09-17
+dt\csv3\1119497.csv,India,Australia,2017-09-21
+dt\csv3\1119498.csv,Australia,India,2017-09-24
+dt\csv3\1119499.csv,Australia,India,2017-09-28
+dt\csv3\1119500.csv,Australia,India,2017-10-01
+dt\csv3\1119537.csv,Australia,England,2018-06-13
+dt\csv3\1119538.csv,England,Australia,2018-06-16
+dt\csv3\1119539.csv,England,Australia,2018-06-19
+dt\csv3\1119540.csv,Australia,England,2018-06-21
+dt\csv3\1119541.csv,Australia,England,2018-06-24
+dt\csv3\1119546.csv,England,India,2018-07-12
+dt\csv3\1119547.csv,England,India,2018-07-14
+dt\csv3\1119548.csv,India,England,2018-07-17
+dt\csv3\1120090.csv,India,New Zealand,2017-10-22
+dt\csv3\1120091.csv,New Zealand,India,2017-10-25
+dt\csv3\1120092.csv,India,New Zealand,2017-10-29
+dt\csv3\1120286.csv,Pakistan,Sri Lanka,2017-10-13
+dt\csv3\1120287.csv,Pakistan,Sri Lanka,2017-10-16
+dt\csv3\1120288.csv,Sri Lanka,Pakistan,2017-10-18
+dt\csv3\1120289.csv,Sri Lanka,Pakistan,2017-10-20
+dt\csv3\1120290.csv,Sri Lanka,Pakistan,2017-10-23
+dt\csv3\1122279.csv,South Africa,India,2018-02-01
+dt\csv3\1122280.csv,South Africa,India,2018-02-04
+dt\csv3\1122281.csv,India,South Africa,2018-02-07
+dt\csv3\1122282.csv,India,South Africa,2018-02-10
+dt\csv3\1122283.csv,India,South Africa,2018-02-13
+dt\csv3\1122284.csv,South Africa,India,2018-02-16
+dt\csv3\1122726.csv,India,Sri Lanka,2017-12-10
+dt\csv3\1122727.csv,India,Sri Lanka,2017-12-13
+dt\csv3\1122728.csv,Sri Lanka,India,2017-12-17
+dt\csv3\1124089.csv,Hong Kong,Papua New Guinea,2017-12-06
+dt\csv3\1130737.csv,Zimbabwe,Bangladesh,2018-01-15
+dt\csv3\1130738.csv,Zimbabwe,Sri Lanka,2018-01-17
+dt\csv3\1130739.csv,Bangladesh,Sri Lanka,2018-01-19
+dt\csv3\1130740.csv,Zimbabwe,Sri Lanka,2018-01-21
+dt\csv3\1130741.csv,Bangladesh,Zimbabwe,2018-01-23
+dt\csv3\1130742.csv,Bangladesh,Sri Lanka,2018-01-25
+dt\csv3\1130743.csv,Sri Lanka,Bangladesh,2018-01-27
+dt\csv3\1131274.csv,United Arab Emirates,Ireland,2018-01-11
+dt\csv3\1131275.csv,Ireland,United Arab Emirates,2018-01-13
+dt\csv3\1131276.csv,Scotland,Ireland,2018-01-16
+dt\csv3\1131277.csv,Ireland,Scotland,2018-01-18
+dt\csv3\1131278.csv,Scotland,United Arab Emirates,2018-01-21
+dt\csv3\1131279.csv,Scotland,United Arab Emirates,2018-01-23
+dt\csv3\1133002.csv,Papua New Guinea,Ireland,2018-03-06
+dt\csv3\1133003.csv,West Indies,United Arab Emirates,2018-03-06
+dt\csv3\1133005.csv,Hong Kong,Scotland,2018-03-06
+dt\csv3\1133007.csv,Papua New Guinea,West Indies,2018-03-08
+dt\csv3\1133010.csv,West Indies,Ireland,2018-03-10
+dt\csv3\1133012.csv,Zimbabwe,Hong Kong,2018-03-10
+dt\csv3\1133015.csv,Ireland,United Arab Emirates,2018-03-12
+dt\csv3\1133017.csv,Zimbabwe,Scotland,2018-03-12
+dt\csv3\1133019.csv,Scotland,United Arab Emirates,2018-03-15
+dt\csv3\1133022.csv,Zimbabwe,Ireland,2018-03-16
+dt\csv3\1133023.csv,Papua New Guinea,Hong Kong,2018-03-17
+dt\csv3\1133025.csv,Ireland,Scotland,2018-03-18
+dt\csv3\1133026.csv,Zimbabwe,West Indies,2018-03-19
+dt\csv3\1133028.csv,West Indies,Scotland,2018-03-21
+dt\csv3\1133029.csv,United Arab Emirates,Zimbabwe,2018-03-22
+dt\csv3\1134540.csv,United Arab Emirates,Papua New Guinea,2018-03-04
+dt\csv3\1140379.csv,England,Sri Lanka,2018-10-10
+dt\csv3\1140380.csv,England,Sri Lanka,2018-10-13
+dt\csv3\1140381.csv,Sri Lanka,England,2018-10-17
+dt\csv3\1140382.csv,Sri Lanka,England,2018-10-20
+dt\csv3\1140383.csv,Sri Lanka,England,2018-10-23
+dt\csv3\1142584.csv,Sri Lanka,South Africa,2018-07-29
+dt\csv3\1142585.csv,Sri Lanka,South Africa,2018-08-01
+dt\csv3\1142586.csv,South Africa,Sri Lanka,2018-08-05
+dt\csv3\1142587.csv,Sri Lanka,South Africa,2018-08-08
+dt\csv3\1142588.csv,Sri Lanka,South Africa,2018-08-12
+dt\csv3\1142920.csv,Pakistan,Zimbabwe,2018-07-13
+dt\csv3\1142921.csv,Zimbabwe,Pakistan,2018-07-16
+dt\csv3\1142922.csv,Zimbabwe,Pakistan,2018-07-18
+dt\csv3\1142923.csv,Pakistan,Zimbabwe,2018-07-20
+dt\csv3\1142924.csv,Pakistan,Zimbabwe,2018-07-22
+dt\csv3\1144146.csv,Zimbabwe,South Africa,2018-09-30
+dt\csv3\1144147.csv,South Africa,Zimbabwe,2018-10-03
+dt\csv3\1144148.csv,Zimbabwe,South Africa,2018-10-06
+dt\csv3\1144156.csv,South Africa,Pakistan,2019-01-19
+dt\csv3\1144157.csv,South Africa,Pakistan,2019-01-22
+dt\csv3\1144158.csv,South Africa,Pakistan,2019-01-25
+dt\csv3\1144159.csv,South Africa,Pakistan,2019-01-27
+dt\csv3\1144160.csv,South Africa,Pakistan,2019-01-30
+dt\csv3\1144167.csv,South Africa,Sri Lanka,2019-03-03
+dt\csv3\1144168.csv,South Africa,Sri Lanka,2019-03-06
+dt\csv3\1144169.csv,South Africa,Sri Lanka,2019-03-10
+dt\csv3\1144170.csv,South Africa,Sri Lanka,2019-03-13
+dt\csv3\1144171.csv,South Africa,Sri Lanka,2019-03-16
+dt\csv3\1144483.csv,England,South Africa,2019-05-30
+dt\csv3\1144484.csv,Pakistan,West Indies,2019-05-31
+dt\csv3\1144485.csv,New Zealand,Sri Lanka,2019-06-01
+dt\csv3\1144487.csv,Bangladesh,South Africa,2019-06-02
+dt\csv3\1144488.csv,England,Pakistan,2019-06-03
+dt\csv3\1144490.csv,India,South Africa,2019-06-05
+dt\csv3\1144491.csv,Bangladesh,New Zealand,2019-06-05
+dt\csv3\1144492.csv,Australia,West Indies,2019-06-06
+dt\csv3\1144494.csv,England,Bangladesh,2019-06-08
+dt\csv3\1144496.csv,Australia,India,2019-06-09
+dt\csv3\1144497.csv,South Africa,West Indies,2019-06-10
+dt\csv3\1144499.csv,Australia,Pakistan,2019-06-12
+dt\csv3\1144501.csv,England,West Indies,2019-06-14
+dt\csv3\1144502.csv,Australia,Sri Lanka,2019-06-15
+dt\csv3\1144504.csv,India,Pakistan,2019-06-16
+dt\csv3\1144505.csv,Bangladesh,West Indies,2019-06-17
+dt\csv3\1144507.csv,New Zealand,South Africa,2019-06-19
+dt\csv3\1144508.csv,Australia,Bangladesh,2019-06-20
+dt\csv3\1144509.csv,England,Sri Lanka,2019-06-21
+dt\csv3\1144511.csv,New Zealand,West Indies,2019-06-22
+dt\csv3\1144512.csv,Pakistan,South Africa,2019-06-23
+dt\csv3\1144514.csv,England,Australia,2019-06-25
+dt\csv3\1144515.csv,New Zealand,Pakistan,2019-06-26
+dt\csv3\1144516.csv,India,West Indies,2019-06-27
+dt\csv3\1144517.csv,South Africa,Sri Lanka,2019-06-28
+dt\csv3\1144519.csv,Australia,New Zealand,2019-06-29
+dt\csv3\1144520.csv,England,India,2019-06-30
+dt\csv3\1144521.csv,Sri Lanka,West Indies,2019-07-01
+dt\csv3\1144522.csv,Bangladesh,India,2019-07-02
+dt\csv3\1144523.csv,England,New Zealand,2019-07-03
+dt\csv3\1144525.csv,Bangladesh,Pakistan,2019-07-05
+dt\csv3\1144526.csv,India,Sri Lanka,2019-07-06
+dt\csv3\1144527.csv,Australia,South Africa,2019-07-06
+dt\csv3\1144528.csv,India,New Zealand,2019-07-09
+dt\csv3\1144529.csv,Australia,England,2019-07-11
+dt\csv3\1144530.csv,England,New Zealand,2019-07-14
+dt\csv3\1144986.csv,Australia,South Africa,2018-11-04
+dt\csv3\1144987.csv,Australia,South Africa,2018-11-09
+dt\csv3\1144988.csv,South Africa,Australia,2018-11-11
+dt\csv3\1144997.csv,Australia,India,2019-01-12
+dt\csv3\1144998.csv,Australia,India,2019-01-15
+dt\csv3\1144999.csv,Australia,India,2019-01-18
+dt\csv3\1146720.csv,Bangladesh,West Indies,2018-07-22
+dt\csv3\1146721.csv,West Indies,Bangladesh,2018-07-25
+dt\csv3\1146722.csv,Bangladesh,West Indies,2018-07-28
+dt\csv3\1152841.csv,England,Pakistan,2019-05-08
+dt\csv3\1152842.csv,England,Pakistan,2019-05-11
+dt\csv3\1152843.csv,England,Pakistan,2019-05-14
+dt\csv3\1152844.csv,England,Pakistan,2019-05-17
+dt\csv3\1152845.csv,England,Pakistan,2019-05-19
+dt\csv3\1153243.csv,Bangladesh,Sri Lanka,2018-09-15
+dt\csv3\1153244.csv,Hong Kong,Pakistan,2018-09-16
+dt\csv3\1153246.csv,India,Hong Kong,2018-09-18
+dt\csv3\1153247.csv,Pakistan,India,2018-09-19
+dt\csv3\1153249.csv,Bangladesh,India,2018-09-21
+dt\csv3\1153251.csv,Pakistan,India,2018-09-23
+dt\csv3\1153254.csv,Bangladesh,Pakistan,2018-09-26
+dt\csv3\1153255.csv,Bangladesh,India,2018-09-28
+dt\csv3\1153314.csv,Bangladesh,West Indies,2018-12-09
+dt\csv3\1153315.csv,Bangladesh,West Indies,2018-12-11
+dt\csv3\1153316.csv,Bangladesh,West Indies,2018-12-14
+dt\csv3\1153635.csv,Bangladesh,Zimbabwe,2018-10-21
+dt\csv3\1153636.csv,Zimbabwe,Bangladesh,2018-10-24
+dt\csv3\1153637.csv,Zimbabwe,Bangladesh,2018-10-26
+dt\csv3\1153691.csv,New Zealand,India,2019-01-23
+dt\csv3\1153692.csv,New Zealand,India,2019-01-26
+dt\csv3\1153693.csv,New Zealand,India,2019-01-28
+dt\csv3\1153694.csv,New Zealand,India,2019-01-31
+dt\csv3\1153695.csv,New Zealand,India,2019-02-03
+dt\csv3\1153840.csv,New Zealand,Sri Lanka,2019-01-03
+dt\csv3\1153841.csv,New Zealand,Sri Lanka,2019-01-05
+dt\csv3\1153842.csv,New Zealand,Sri Lanka,2019-01-08
+dt\csv3\1153844.csv,New Zealand,Bangladesh,2019-02-13
+dt\csv3\1153845.csv,New Zealand,Bangladesh,2019-02-16
+dt\csv3\1153846.csv,New Zealand,Bangladesh,2019-02-20
+dt\csv3\1154649.csv,United Arab Emirates,Nepal,2018-08-30
+dt\csv3\1157378.csv,New Zealand,Pakistan,2018-11-07
+dt\csv3\1157379.csv,New Zealand,Pakistan,2018-11-09
+dt\csv3\1157380.csv,Pakistan,New Zealand,2018-11-11
+dt\csv3\1157754.csv,West Indies,India,2018-10-21
+dt\csv3\1157755.csv,India,West Indies,2018-10-24
+dt\csv3\1157756.csv,West Indies,India,2018-10-27
+dt\csv3\1157757.csv,India,West Indies,2018-10-29
+dt\csv3\1157758.csv,West Indies,India,2018-11-01
+dt\csv3\1158066.csv,West Indies,England,2019-02-20
+dt\csv3\1158067.csv,West Indies,England,2019-02-22
+dt\csv3\1158069.csv,West Indies,England,2019-02-27
+dt\csv3\1158070.csv,West Indies,England,2019-03-02
+dt\csv3\1161014.csv,Ireland,England,2019-05-03
+dt\csv3\1168242.csv,India,Australia,2019-03-02
+dt\csv3\1168243.csv,India,Australia,2019-03-05
+dt\csv3\1168244.csv,India,Australia,2019-03-08
+dt\csv3\1168245.csv,India,Australia,2019-03-10
+dt\csv3\1168246.csv,India,Australia,2019-03-13
+dt\csv3\1168508.csv,Ireland,West Indies,2019-05-05
+dt\csv3\1168509.csv,Bangladesh,West Indies,2019-05-07
+dt\csv3\1168511.csv,Ireland,West Indies,2019-05-11
+dt\csv3\1168512.csv,Bangladesh,West Indies,2019-05-13
+dt\csv3\1168513.csv,Ireland,Bangladesh,2019-05-15
+dt\csv3\1168514.csv,Bangladesh,West Indies,2019-05-17
+dt\csv3\1168517.csv,Ireland,Zimbabwe,2019-07-01
+dt\csv3\1168518.csv,Ireland,Zimbabwe,2019-07-04
+dt\csv3\1168519.csv,Ireland,Zimbabwe,2019-07-07
+dt\csv3\1169332.csv,Scotland,Sri Lanka,2019-05-21
+dt\csv3\1170454.csv,United Arab Emirates,Nepal,2019-01-25
+dt\csv3\1170455.csv,United Arab Emirates,Nepal,2019-01-26
+dt\csv3\1170456.csv,United Arab Emirates,Nepal,2019-01-28
+dt\csv3\1174238.csv,Australia,Pakistan,2019-03-22
+dt\csv3\1174239.csv,Australia,Pakistan,2019-03-24
+dt\csv3\1174240.csv,Australia,Pakistan,2019-03-27
+dt\csv3\1174241.csv,Australia,Pakistan,2019-03-29
+dt\csv3\1174242.csv,Australia,Pakistan,2019-03-31
+dt\csv3\1174844.csv,Papua New Guinea,United States of America,2019-04-27
+dt\csv3\1174845.csv,Namibia,Oman,2019-04-27
+dt\csv3\1179272.csv,Zimbabwe,United Arab Emirates,2019-04-10
+dt\csv3\1179273.csv,Zimbabwe,United Arab Emirates,2019-04-12
+dt\csv3\1179275.csv,Zimbabwe,United Arab Emirates,2019-04-16
+dt\csv3\1183537.csv,Australia,New Zealand,2020-03-13
+dt\csv3\1185310.csv,South Africa,England,2020-02-04
+dt\csv3\1185311.csv,South Africa,England,2020-02-07
+dt\csv3\1185312.csv,South Africa,England,2020-02-09
+dt\csv3\1185319.csv,South Africa,Australia,2020-02-29
+dt\csv3\1185320.csv,South Africa,Australia,2020-03-04
+dt\csv3\1185321.csv,South Africa,Australia,2020-03-07
+dt\csv3\1187021.csv,India,West Indies,2019-12-15
+dt\csv3\1187022.csv,India,West Indies,2019-12-18
+dt\csv3\1187023.csv,India,West Indies,2019-12-22
+dt\csv3\1187027.csv,India,Australia,2020-01-14
+dt\csv3\1187028.csv,India,Australia,2020-01-17
+dt\csv3\1187029.csv,India,Australia,2020-01-19
+dt\csv3\1187682.csv,New Zealand,India,2020-02-05
+dt\csv3\1187683.csv,New Zealand,India,2020-02-08
+dt\csv3\1187684.csv,New Zealand,India,2020-02-11
+dt\csv3\1188377.csv,Netherlands,Zimbabwe,2019-06-19
+dt\csv3\1188378.csv,Netherlands,Zimbabwe,2019-06-21
+dt\csv3\1188624.csv,West Indies,India,2019-08-08
+dt\csv3\1188625.csv,West Indies,India,2019-08-11
+dt\csv3\1188626.csv,West Indies,India,2019-08-14
+dt\csv3\1193504.csv,Sri Lanka,Bangladesh,2019-07-26
+dt\csv3\1193505.csv,Sri Lanka,Bangladesh,2019-07-28
+dt\csv3\1193506.csv,Sri Lanka,Bangladesh,2019-07-31
+dt\csv3\1196670.csv,Oman,Papua New Guinea,2019-08-14
+dt\csv3\1196671.csv,Scotland,Oman,2019-08-15
+dt\csv3\1196672.csv,Scotland,Papua New Guinea,2019-08-17
+dt\csv3\1196673.csv,Scotland,Oman,2019-08-18
+dt\csv3\1196674.csv,Scotland,Papua New Guinea,2019-08-20
+dt\csv3\1196675.csv,Oman,Papua New Guinea,2019-08-21
+dt\csv3\1198238.csv,Australia,England,2020-09-11
+dt\csv3\1198239.csv,England,Australia,2020-09-13
+dt\csv3\1198240.csv,England,Australia,2020-09-16
+dt\csv3\1198247.csv,Ireland,England,2020-07-30
+dt\csv3\1198248.csv,Ireland,England,2020-08-01
+dt\csv3\1198249.csv,England,Ireland,2020-08-04
+dt\csv3\1198487.csv,Pakistan,Sri Lanka,2019-09-30
+dt\csv3\1198488.csv,Pakistan,Sri Lanka,2019-10-02
+dt\csv3\1199225.csv,United States of America,Papua New Guinea,2019-09-13
+dt\csv3\1199226.csv,United States of America,Namibia,2019-09-17
+dt\csv3\1199227.csv,United States of America,Papua New Guinea,2019-09-19
+dt\csv3\1199229.csv,Namibia,Papua New Guinea,2019-09-22
+dt\csv3\1199230.csv,Namibia,Papua New Guinea,2019-09-23
+dt\csv3\1203673.csv,West Indies,Ireland,2020-01-07
+dt\csv3\1203674.csv,West Indies,Ireland,2020-01-09
+dt\csv3\1203675.csv,West Indies,Ireland,2020-01-12
+dt\csv3\1206059.csv,United Arab Emirates,United States of America,2019-12-08
+dt\csv3\1206060.csv,Scotland,United States of America,2019-12-09
+dt\csv3\1206062.csv,United Arab Emirates,United States of America,2019-12-12
+dt\csv3\1206063.csv,Scotland,United States of America,2019-12-14
+dt\csv3\1206064.csv,United Arab Emirates,Scotland,2019-12-15
+dt\csv3\1211169.csv,Oman,United Arab Emirates,2020-01-05
+dt\csv3\1211170.csv,Namibia,United Arab Emirates,2020-01-06
+dt\csv3\1211171.csv,Oman,Namibia,2020-01-08
+dt\csv3\1211173.csv,Namibia,United Arab Emirates,2020-01-09
+dt\csv3\1213871.csv,Sri Lanka,West Indies,2020-02-22
+dt\csv3\1213872.csv,Sri Lanka,West Indies,2020-02-26
+dt\csv3\1213873.csv,Sri Lanka,West Indies,2020-03-01
+dt\csv3\1214667.csv,Bangladesh,Zimbabwe,2020-03-01
+dt\csv3\1214668.csv,Bangladesh,Zimbabwe,2020-03-03
+dt\csv3\1214669.csv,Bangladesh,Zimbabwe,2020-03-06
+dt\csv3\1215122.csv,Nepal,Oman,2020-02-05
+dt\csv3\1215123.csv,Oman,United States of America,2020-02-06
+dt\csv3\1215124.csv,Nepal,United States of America,2020-02-08
+dt\csv3\1215125.csv,Nepal,Oman,2020-02-09
+dt\csv3\1215126.csv,Oman,United States of America,2020-02-11
+dt\csv3\1215127.csv,Nepal,United States of America,2020-02-12
+dt\csv3\1223955.csv,Australia,India,2020-11-27
+dt\csv3\1223956.csv,Australia,India,2020-11-29
+dt\csv3\1223957.csv,India,Australia,2020-12-02
+dt\csv3\1233461.csv,Pakistan,Zimbabwe,2020-10-30
+dt\csv3\1233462.csv,Zimbabwe,Pakistan,2020-11-01
+dt\csv3\1233463.csv,Zimbabwe,Pakistan,2020-11-03
+dt\csv3\1233976.csv,Bangladesh,New Zealand,2021-03-20
+dt\csv3\1233977.csv,Bangladesh,New Zealand,2021-03-23
+dt\csv3\1233978.csv,New Zealand,Bangladesh,2021-03-26
+dt\csv3\1239534.csv,Sri Lanka,England,2021-06-29
+dt\csv3\1239535.csv,Sri Lanka,England,2021-07-01
+dt\csv3\1239536.csv,Sri Lanka,England,2021-07-04
+dt\csv3\1239537.csv,Pakistan,England,2021-07-08
+dt\csv3\1239538.csv,England,Pakistan,2021-07-10
+dt\csv3\1239539.csv,Pakistan,England,2021-07-13
+dt\csv3\1243393.csv,India,England,2021-03-23
+dt\csv3\1243394.csv,India,England,2021-03-26
+dt\csv3\1243395.csv,India,England,2021-03-28
+dt\csv3\1244022.csv,West Indies,Bangladesh,2021-01-20
+dt\csv3\1244023.csv,West Indies,Bangladesh,2021-01-22
+dt\csv3\1244024.csv,Bangladesh,West Indies,2021-01-25
+dt\csv3\1244524.csv,Ireland,United Arab Emirates,2021-01-08
+dt\csv3\1244525.csv,Ireland,United Arab Emirates,2021-01-18
+dt\csv3\1251572.csv,South Africa,Pakistan,2021-04-02
+dt\csv3\1251573.csv,South Africa,Pakistan,2021-04-04
+dt\csv3\1251574.csv,Pakistan,South Africa,2021-04-07
+dt\csv3\1251950.csv,Ireland,South Africa,2021-07-11
+dt\csv3\1251951.csv,Ireland,South Africa,2021-07-13
+dt\csv3\1251952.csv,South Africa,Ireland,2021-07-16
+dt\csv3\1251962.csv,Netherlands,Ireland,2021-06-02
+dt\csv3\1251963.csv,Netherlands,Ireland,2021-06-04
+dt\csv3\1251964.csv,Ireland,Netherlands,2021-06-07
+dt\csv3\1252069.csv,West Indies,Sri Lanka,2021-03-10
+dt\csv3\1252070.csv,West Indies,Sri Lanka,2021-03-12
+dt\csv3\1252071.csv,West Indies,Sri Lanka,2021-03-14
+dt\csv3\1260084.csv,Netherlands,Scotland,2021-05-19
+dt\csv3\1260085.csv,Netherlands,Scotland,2021-05-20
+dt\csv3\1262344.csv,Bangladesh,Sri Lanka,2021-05-23
+dt\csv3\1262346.csv,Bangladesh,Sri Lanka,2021-05-25
+dt\csv3\1262347.csv,Sri Lanka,Bangladesh,2021-05-28
+dt\csv3\1262755.csv,Sri Lanka,India,2021-07-18
+dt\csv3\1262756.csv,Sri Lanka,India,2021-07-20
+dt\csv3\1262757.csv,India,Sri Lanka,2021-07-23
+dt\csv3\1263161.csv,Australia,West Indies,2021-07-20
+dt\csv3\1263162.csv,Australia,West Indies,2021-07-22
+dt\csv3\1263163.csv,West Indies,Australia,2021-07-26
+dt\csv3\1267677.csv,Bangladesh,Zimbabwe,2021-07-16
+dt\csv3\1267678.csv,Zimbabwe,Bangladesh,2021-07-18
+dt\csv3\1267679.csv,Zimbabwe,Bangladesh,2021-07-20
+dt\csv3\1271627.csv,Sri Lanka,South Africa,2021-09-02
+dt\csv3\1271628.csv,South Africa,Sri Lanka,2021-09-04
+dt\csv3\1271629.csv,Sri Lanka,South Africa,2021-09-07
+dt\csv3\1272379.csv,Zimbabwe,Ireland,2021-09-08
+dt\csv3\1272380.csv,Ireland,Zimbabwe,2021-09-10
+dt\csv3\1272381.csv,Zimbabwe,Ireland,2021-09-13
+dt\csv3\1275249.csv,United States of America,Nepal,2021-09-13
+dt\csv3\1275250.csv,Nepal,Oman,2021-09-14
+dt\csv3\1275251.csv,United States of America,Oman,2021-09-16
+dt\csv3\1275253.csv,Oman,Nepal,2021-09-19
+dt\csv3\1275255.csv,Papua New Guinea,Scotland,2021-09-25
+dt\csv3\1275256.csv,Oman,Papua New Guinea,2021-09-26
+dt\csv3\1275257.csv,Scotland,Oman,2021-09-28
+dt\csv3\1275258.csv,Papua New Guinea,Scotland,2021-09-29
+dt\csv3\1275259.csv,Papua New Guinea,Oman,2021-10-01
+dt\csv3\1275260.csv,Scotland,Oman,2021-10-02
+dt\csv3\1276293.csv,Papua New Guinea,United States of America,2021-09-06
+dt\csv3\1276294.csv,United States of America,Papua New Guinea,2021-09-09
+dt\csv3\1276295.csv,Papua New Guinea,Nepal,2021-09-07
+dt\csv3\1276296.csv,Nepal,Papua New Guinea,2021-09-10
+dt\csv3\1276907.csv,England,India,2022-07-12
+dt\csv3\1276908.csv,England,India,2022-07-14
+dt\csv3\1276909.csv,England,India,2022-07-17
+dt\csv3\1276910.csv,South Africa,England,2022-07-19
+dt\csv3\1276911.csv,England,South Africa,2022-07-22
+dt\csv3\1276912.csv,South Africa,England,2022-07-24
+dt\csv3\1277073.csv,South Africa,Netherlands,2021-11-26
+dt\csv3\1277082.csv,South Africa,India,2022-01-19
+dt\csv3\1277083.csv,India,South Africa,2022-01-21
+dt\csv3\1277084.csv,South Africa,India,2022-01-23
+dt\csv3\1277085.csv,West Indies,Ireland,2022-01-08
+dt\csv3\1277086.csv,West Indies,Ireland,2022-01-13
+dt\csv3\1277087.csv,West Indies,Ireland,2022-01-16
+dt\csv3\1277097.csv,Bangladesh,South Africa,2022-03-18
+dt\csv3\1277098.csv,Bangladesh,South Africa,2022-03-20
+dt\csv3\1277099.csv,South Africa,Bangladesh,2022-03-23
+dt\csv3\1278676.csv,West Indies,India,2022-02-06
+dt\csv3\1278677.csv,India,West Indies,2022-02-09
+dt\csv3\1278678.csv,India,West Indies,2022-02-11
+dt\csv3\1281444.csv,England,Netherlands,2022-06-17
+dt\csv3\1281445.csv,Netherlands,England,2022-06-19
+dt\csv3\1281446.csv,Netherlands,England,2022-06-22
+dt\csv3\1288313.csv,Australia,Pakistan,2022-03-29
+dt\csv3\1288314.csv,Australia,Pakistan,2022-03-31
+dt\csv3\1288315.csv,Australia,Pakistan,2022-04-02
+dt\csv3\1288987.csv,Netherlands,New Zealand,2022-03-29
+dt\csv3\1288988.csv,New Zealand,Netherlands,2022-04-02
+dt\csv3\1288989.csv,New Zealand,Netherlands,2022-04-04
+dt\csv3\1290881.csv,Namibia,Oman,2021-11-26
+dt\csv3\1294969.csv,Zimbabwe,Sri Lanka,2022-01-16
+dt\csv3\1294970.csv,Zimbabwe,Sri Lanka,2022-01-18
+dt\csv3\1294971.csv,Sri Lanka,Zimbabwe,2022-01-21
+dt\csv3\1299586.csv,Oman,United Arab Emirates,2022-02-05
+dt\csv3\1299587.csv,Oman,United Arab Emirates,2022-02-06
+dt\csv3\1299588.csv,Oman,United Arab Emirates,2022-02-08
+dt\csv3\1302349.csv,Netherlands,West Indies,2022-05-31
+dt\csv3\1302350.csv,Netherlands,West Indies,2022-06-02
+dt\csv3\1302351.csv,West Indies,Netherlands,2022-06-04
+dt\csv3\1302616.csv,Oman,United Arab Emirates,2022-03-05
+dt\csv3\1302617.csv,Namibia,Oman,2022-03-06
+dt\csv3\1302618.csv,Namibia,United Arab Emirates,2022-03-08
+dt\csv3\1302619.csv,Oman,United Arab Emirates,2022-03-09
+dt\csv3\1302620.csv,Namibia,Oman,2022-03-11
+dt\csv3\1302621.csv,United Arab Emirates,Namibia,2022-03-12
+dt\csv3\1302622.csv,Oman,Namibia,2022-03-14
+dt\csv3\1302623.csv,Papua New Guinea,United Arab Emirates,2022-03-15
+dt\csv3\1302624.csv,Papua New Guinea,Nepal,2022-03-16
+dt\csv3\1302625.csv,United Arab Emirates,Nepal,2022-03-18
+dt\csv3\1302626.csv,United Arab Emirates,Papua New Guinea,2022-03-19
+dt\csv3\1302627.csv,United Arab Emirates,Nepal,2022-03-21
+dt\csv3\1302628.csv,Papua New Guinea,Nepal,2022-03-22
+dt\csv3\1303309.csv,Ireland,New Zealand,2022-07-10
+dt\csv3\1303310.csv,Ireland,New Zealand,2022-07-12
+dt\csv3\1303311.csv,New Zealand,Ireland,2022-07-15
+dt\csv3\1305496.csv,Papua New Guinea,Nepal,2022-03-25
+dt\csv3\1305497.csv,Nepal,Papua New Guinea,2022-03-26
+dt\csv3\1307296.csv,Sri Lanka,Australia,2022-06-14
+dt\csv3\1307297.csv,Sri Lanka,Australia,2022-06-16
+dt\csv3\1307298.csv,Australia,Sri Lanka,2022-06-19
+dt\csv3\1307299.csv,Sri Lanka,Australia,2022-06-21
+dt\csv3\1307300.csv,Sri Lanka,Australia,2022-06-24
+dt\csv3\1307479.csv,Scotland,New Zealand,2022-07-31
+dt\csv3\1308244.csv,Scotland,Papua New Guinea,2022-04-09
+dt\csv3\1308245.csv,Scotland,Oman,2022-04-10
+dt\csv3\1308246.csv,Papua New Guinea,Oman,2022-04-12
+dt\csv3\1308247.csv,Scotland,Papua New Guinea,2022-04-13
+dt\csv3\1308248.csv,Oman,Scotland,2022-04-15
+dt\csv3\1308249.csv,Oman,Papua New Guinea,2022-04-16
+dt\csv3\1311737.csv,Pakistan,Netherlands,2022-08-16
+dt\csv3\1311738.csv,Netherlands,Pakistan,2022-08-18
+dt\csv3\1311739.csv,Pakistan,Netherlands,2022-08-21
+dt\csv3\1312798.csv,United States of America,Scotland,2022-05-28
+dt\csv3\1312799.csv,Scotland,United States of America,2022-05-29
+dt\csv3\1312800.csv,United Arab Emirates,Scotland,2022-05-31
+dt\csv3\1312801.csv,United Arab Emirates,United States of America,2022-06-01
+dt\csv3\1312802.csv,Scotland,United Arab Emirates,2022-06-03
+dt\csv3\1312803.csv,United States of America,United Arab Emirates,2022-06-04
+dt\csv3\1312804.csv,United States of America,Oman,2022-06-08
+dt\csv3\1312805.csv,Oman,Nepal,2022-06-09
+dt\csv3\1312806.csv,Nepal,United States of America,2022-06-11
+dt\csv3\1312807.csv,Oman,United States of America,2022-06-12
+dt\csv3\1312808.csv,Oman,Nepal,2022-06-14
+dt\csv3\1312809.csv,United States of America,Nepal,2022-06-15
+dt\csv3\1315038.csv,West Indies,Pakistan,2022-06-08
+dt\csv3\1315039.csv,Pakistan,West Indies,2022-06-10
+dt\csv3\1315040.csv,Pakistan,West Indies,2022-06-12
+dt\csv3\1317152.csv,West Indies,Bangladesh,2022-07-10
+dt\csv3\1317153.csv,West Indies,Bangladesh,2022-07-13
+dt\csv3\1317154.csv,West Indies,Bangladesh,2022-07-16
+dt\csv3\1317476.csv,Zimbabwe,Australia,2022-08-28
+dt\csv3\1317477.csv,Zimbabwe,Australia,2022-08-31
+dt\csv3\1317478.csv,Australia,Zimbabwe,2022-09-03
+dt\csv3\1317479.csv,New Zealand,Australia,2022-09-06
+dt\csv3\1317480.csv,Australia,New Zealand,2022-09-08
+dt\csv3\1317481.csv,Australia,New Zealand,2022-09-11
+dt\csv3\1317489.csv,England,Australia,2022-11-17
+dt\csv3\1317490.csv,Australia,England,2022-11-19
+dt\csv3\1317491.csv,Australia,England,2022-11-22
+dt\csv3\1317900.csv,India,West Indies,2022-07-22
+dt\csv3\1317901.csv,West Indies,India,2022-07-24
+dt\csv3\1317902.csv,India,West Indies,2022-07-27
+dt\csv3\1317911.csv,New Zealand,West Indies,2022-08-17
+dt\csv3\1317912.csv,New Zealand,West Indies,2022-08-19
+dt\csv3\1317913.csv,West Indies,New Zealand,2022-08-21
+dt\csv3\1322031.csv,Namibia,Nepal,2022-07-11
+dt\csv3\1322032.csv,Scotland,Nepal,2022-07-13
+dt\csv3\1322033.csv,Namibia,Scotland,2022-07-14
+dt\csv3\1322034.csv,Namibia,Nepal,2022-07-16
+dt\csv3\1322035.csv,Nepal,Scotland,2022-07-17
+dt\csv3\1322036.csv,Scotland,United Arab Emirates,2022-08-10
+dt\csv3\1322037.csv,United Arab Emirates,United States of America,2022-08-11
+dt\csv3\1322038.csv,United States of America,Scotland,2022-08-13
+dt\csv3\1322039.csv,Scotland,United Arab Emirates,2022-08-14
+dt\csv3\1322041.csv,Scotland,United States of America,2022-08-17
+dt\csv3\1322278.csv,India,New Zealand,2022-11-25
+dt\csv3\1322279.csv,India,New Zealand,2022-11-27
+dt\csv3\1322280.csv,India,New Zealand,2022-11-30
+dt\csv3\1322359.csv,New Zealand,Sri Lanka,2023-03-25
+dt\csv3\1322361.csv,Sri Lanka,New Zealand,2023-03-31
+dt\csv3\1323292.csv,Bangladesh,Zimbabwe,2022-08-05
+dt\csv3\1323293.csv,Bangladesh,Zimbabwe,2022-08-07
+dt\csv3\1323294.csv,Bangladesh,Zimbabwe,2022-08-10
+dt\csv3\1325549.csv,Zimbabwe,India,2022-08-18
+dt\csv3\1325550.csv,Zimbabwe,India,2022-08-20
+dt\csv3\1325551.csv,India,Zimbabwe,2022-08-22
+dt\csv3\1327509.csv,South Africa,India,2022-10-06
+dt\csv3\1327510.csv,South Africa,India,2022-10-09
+dt\csv3\1327511.csv,South Africa,India,2022-10-11
+dt\csv3\1331365.csv,United States of America,Papua New Guinea,2022-09-11
+dt\csv3\1331366.csv,Papua New Guinea,United States of America,2022-09-13
+dt\csv3\1331367.csv,Namibia,United States of America,2022-09-15
+dt\csv3\1331368.csv,Namibia,United States of America,2022-09-17
+dt\csv3\1331369.csv,Namibia,Papua New Guinea,2022-09-20
+dt\csv3\1331370.csv,Namibia,Papua New Guinea,2022-09-21
+dt\csv3\1336052.csv,England,New Zealand,2023-09-08
+dt\csv3\1336053.csv,England,New Zealand,2023-09-10
+dt\csv3\1336054.csv,England,New Zealand,2023-09-13
+dt\csv3\1336055.csv,England,New Zealand,2023-09-15
+dt\csv3\1336129.csv,England,Ireland,2023-09-23
+dt\csv3\1336130.csv,England,Ireland,2023-09-26
+dt\csv3\1339595.csv,South Africa,England,2023-01-27
+dt\csv3\1339596.csv,England,South Africa,2023-01-29
+dt\csv3\1339597.csv,England,South Africa,2023-02-01
+dt\csv3\1339602.csv,West Indies,South Africa,2023-03-18
+dt\csv3\1339603.csv,West Indies,South Africa,2023-03-21
+dt\csv3\1339607.csv,Netherlands,South Africa,2023-03-31
+dt\csv3\1339608.csv,South Africa,Netherlands,2023-04-02
+dt\csv3\1339611.csv,New Zealand,Pakistan,2023-01-09
+dt\csv3\1339612.csv,New Zealand,Pakistan,2023-01-11
+dt\csv3\1339613.csv,Pakistan,New Zealand,2023-01-13
+dt\csv3\1339619.csv,New Zealand,Pakistan,2023-04-27
+dt\csv3\1339620.csv,New Zealand,Pakistan,2023-04-29
+dt\csv3\1339621.csv,Pakistan,New Zealand,2023-05-03
+dt\csv3\1339622.csv,Pakistan,New Zealand,2023-05-05
+dt\csv3\1339623.csv,New Zealand,Pakistan,2023-05-07
+dt\csv3\1340845.csv,India,Bangladesh,2022-12-04
+dt\csv3\1340846.csv,Bangladesh,India,2022-12-07
+dt\csv3\1340847.csv,India,Bangladesh,2022-12-10
+dt\csv3\1341969.csv,Papua New Guinea,Namibia,2022-11-19
+dt\csv3\1341970.csv,United States of America,Namibia,2022-11-20
+dt\csv3\1341971.csv,Papua New Guinea,United States of America,2022-11-22
+dt\csv3\1341972.csv,Papua New Guinea,Namibia,2022-11-23
+dt\csv3\1341973.csv,United States of America,Papua New Guinea,2022-11-25
+dt\csv3\1341974.csv,United States of America,Namibia,2022-11-26
+dt\csv3\1341975.csv,Namibia,Scotland,2022-12-01
+dt\csv3\1341976.csv,Nepal,Namibia,2022-12-02
+dt\csv3\1341977.csv,Nepal,Scotland,2022-12-04
+dt\csv3\1341978.csv,Scotland,Namibia,2022-12-05
+dt\csv3\1341979.csv,Namibia,Nepal,2022-12-07
+dt\csv3\1341980.csv,Nepal,Scotland,2022-12-08
+dt\csv3\1343683.csv,United Arab Emirates,Nepal,2022-11-14
+dt\csv3\1343684.csv,United Arab Emirates,Nepal,2022-11-16
+dt\csv3\1343685.csv,United Arab Emirates,Nepal,2022-11-18
+dt\csv3\1348326.csv,Ireland,Zimbabwe,2023-01-18
+dt\csv3\1348327.csv,Ireland,Zimbabwe,2023-01-21
+dt\csv3\1348328.csv,Zimbabwe,Ireland,2023-01-23
+dt\csv3\1348643.csv,India,Sri Lanka,2023-01-10
+dt\csv3\1348644.csv,Sri Lanka,India,2023-01-12
+dt\csv3\1348645.csv,India,Sri Lanka,2023-01-15
+dt\csv3\1348646.csv,India,New Zealand,2023-01-18
+dt\csv3\1348647.csv,New Zealand,India,2023-01-21
+dt\csv3\1348648.csv,India,New Zealand,2023-01-24
+dt\csv3\1348656.csv,Australia,India,2023-03-17
+dt\csv3\1348657.csv,India,Australia,2023-03-19
+dt\csv3\1348658.csv,Australia,India,2023-03-22
+dt\csv3\1351397.csv,Bangladesh,England,2023-03-01
+dt\csv3\1351398.csv,England,Bangladesh,2023-03-03
+dt\csv3\1351399.csv,Bangladesh,England,2023-03-06
+dt\csv3\1355717.csv,Bangladesh,Ireland,2023-03-18
+dt\csv3\1355718.csv,Bangladesh,Ireland,2023-03-20
+dt\csv3\1355719.csv,Ireland,Bangladesh,2023-03-23
+dt\csv3\1358073.csv,Namibia,Nepal,2023-02-14
+dt\csv3\1358074.csv,Namibia,Scotland,2023-02-15
+dt\csv3\1358075.csv,Scotland,Nepal,2023-02-17
+dt\csv3\1358076.csv,Namibia,Nepal,2023-02-18
+dt\csv3\1358077.csv,Scotland,Namibia,2023-02-20
+dt\csv3\1358078.csv,Scotland,Nepal,2023-02-21
+dt\csv3\1358079.csv,Namibia,United Arab Emirates,2023-02-23
+dt\csv3\1358080.csv,United Arab Emirates,Namibia,2023-02-25
+dt\csv3\1358082.csv,Papua New Guinea,United Arab Emirates,2023-02-28
+dt\csv3\1358083.csv,United Arab Emirates,Nepal,2023-03-02
+dt\csv3\1358084.csv,Papua New Guinea,Nepal,2023-03-03
+dt\csv3\1358085.csv,United Arab Emirates,Papua New Guinea,2023-03-05
+dt\csv3\1358086.csv,Nepal,United Arab Emirates,2023-03-06
+dt\csv3\1358087.csv,Nepal,Papua New Guinea,2023-03-09
+dt\csv3\1358088.csv,Papua New Guinea,United Arab Emirates,2023-03-10
+dt\csv3\1358089.csv,Nepal,United Arab Emirates,2023-03-12
+dt\csv3\1358090.csv,Papua New Guinea,Nepal,2023-03-13
+dt\csv3\1358091.csv,Papua New Guinea,United Arab Emirates,2023-03-15
+dt\csv3\1358092.csv,United Arab Emirates,Nepal,2023-03-16
+dt\csv3\1362379.csv,Zimbabwe,Netherlands,2023-03-21
+dt\csv3\1362380.csv,Zimbabwe,Netherlands,2023-03-23
+dt\csv3\1362381.csv,Netherlands,Zimbabwe,2023-03-25
+dt\csv3\1364124.csv,Bangladesh,Ireland,2023-05-09
+dt\csv3\1364125.csv,Ireland,Bangladesh,2023-05-12
+dt\csv3\1365092.csv,United States of America,Namibia,2023-03-26
+dt\csv3\1365093.csv,United Arab Emirates,Papua New Guinea,2023-03-27
+dt\csv3\1365095.csv,Canada,United States of America,2023-03-29
+dt\csv3\1365097.csv,Jersey,Namibia,2023-03-30
+dt\csv3\1365098.csv,United Arab Emirates,United States of America,2023-03-30
+dt\csv3\1365099.csv,Canada,United Arab Emirates,2023-04-01
+dt\csv3\1365100.csv,Jersey,Papua New Guinea,2023-04-01
+dt\csv3\1365101.csv,United States of America,Papua New Guinea,2023-04-02
+dt\csv3\1365102.csv,United Arab Emirates,Namibia,2023-04-02
+dt\csv3\1365103.csv,Namibia,Canada,2023-04-04
+dt\csv3\1365104.csv,United States of America,Jersey,2023-04-04
+dt\csv3\1365105.csv,United Arab Emirates,Jersey,2023-04-05
+dt\csv3\1365106.csv,Canada,Papua New Guinea,2023-04-05
+dt\csv3\1365552.csv,Bangladesh,Ireland,2023-05-14
+dt\csv3\1367985.csv,Nepal,Oman,2023-04-21
+dt\csv3\1368000.csv,United Arab Emirates,Oman,2023-04-29
+dt\csv3\1368002.csv,United Arab Emirates,Nepal,2023-05-01
+dt\csv3\1373571.csv,South Africa,Australia,2023-09-07
+dt\csv3\1373572.csv,Australia,South Africa,2023-09-09
+dt\csv3\1373573.csv,South Africa,Australia,2023-09-12
+dt\csv3\1373574.csv,South Africa,Australia,2023-09-15
+dt\csv3\1373575.csv,South Africa,Australia,2023-09-17
+dt\csv3\1373576.csv,England,West Indies,2023-12-03
+dt\csv3\1373577.csv,West Indies,England,2023-12-06
+dt\csv3\1373578.csv,England,West Indies,2023-12-09
+dt\csv3\1375847.csv,West Indies,Australia,2024-02-02
+dt\csv3\1375848.csv,Australia,West Indies,2024-02-04
+dt\csv3\1375849.csv,West Indies,Australia,2024-02-06
+dt\csv3\1377005.csv,United Arab Emirates,West Indies,2023-06-04
+dt\csv3\1377006.csv,West Indies,United Arab Emirates,2023-06-06
+dt\csv3\1377007.csv,United Arab Emirates,West Indies,2023-06-09
+dt\csv3\1377746.csv,Nepal,Zimbabwe,2023-06-18
+dt\csv3\1377747.csv,West Indies,United States of America,2023-06-18
+dt\csv3\1377748.csv,Sri Lanka,United Arab Emirates,2023-06-19
+dt\csv3\1377749.csv,Ireland,Oman,2023-06-19
+dt\csv3\1377750.csv,Netherlands,Zimbabwe,2023-06-20
+dt\csv3\1377751.csv,United States of America,Nepal,2023-06-20
+dt\csv3\1377752.csv,Ireland,Scotland,2023-06-21
+dt\csv3\1377753.csv,United Arab Emirates,Oman,2023-06-21
+dt\csv3\1377754.csv,West Indies,Nepal,2023-06-22
+dt\csv3\1377755.csv,United States of America,Netherlands,2023-06-22
+dt\csv3\1377756.csv,Oman,Sri Lanka,2023-06-23
+dt\csv3\1377757.csv,Scotland,United Arab Emirates,2023-06-23
+dt\csv3\1377758.csv,Zimbabwe,West Indies,2023-06-24
+dt\csv3\1377759.csv,Nepal,Netherlands,2023-06-24
+dt\csv3\1377760.csv,Sri Lanka,Ireland,2023-06-25
+dt\csv3\1377761.csv,Scotland,Oman,2023-06-25
+dt\csv3\1377762.csv,Zimbabwe,United States of America,2023-06-26
+dt\csv3\1377763.csv,West Indies,Netherlands,2023-06-26
+dt\csv3\1377764.csv,Sri Lanka,Scotland,2023-06-27
+dt\csv3\1377765.csv,Ireland,United Arab Emirates,2023-06-27
+dt\csv3\1377766.csv,Zimbabwe,Oman,2023-06-29
+dt\csv3\1377767.csv,Sri Lanka,Netherlands,2023-06-30
+dt\csv3\1377768.csv,United States of America,Ireland,2023-06-30
+dt\csv3\1377769.csv,West Indies,Scotland,2023-07-01
+dt\csv3\1377770.csv,Zimbabwe,Sri Lanka,2023-07-02
+dt\csv3\1377771.csv,United Arab Emirates,Nepal,2023-07-02
+dt\csv3\1377772.csv,Netherlands,Oman,2023-07-03
+dt\csv3\1377773.csv,Scotland,Zimbabwe,2023-07-04
+dt\csv3\1377774.csv,Nepal,Ireland,2023-07-04
+dt\csv3\1377775.csv,Oman,West Indies,2023-07-05
+dt\csv3\1377776.csv,Scotland,Netherlands,2023-07-06
+dt\csv3\1377777.csv,United Arab Emirates,United States of America,2023-07-06
+dt\csv3\1377778.csv,West Indies,Sri Lanka,2023-07-07
+dt\csv3\1377779.csv,Sri Lanka,Netherlands,2023-07-09
+dt\csv3\1381214.csv,West Indies,India,2023-07-27
+dt\csv3\1381215.csv,India,West Indies,2023-07-29
+dt\csv3\1381216.csv,India,West Indies,2023-08-01
+dt\csv3\1384392.csv,England,New Zealand,2023-10-05
+dt\csv3\1384393.csv,Pakistan,Netherlands,2023-10-06
+dt\csv3\1384395.csv,South Africa,Sri Lanka,2023-10-07
+dt\csv3\1384396.csv,Australia,India,2023-10-08
+dt\csv3\1384397.csv,New Zealand,Netherlands,2023-10-09
+dt\csv3\1384398.csv,England,Bangladesh,2023-10-10
+dt\csv3\1384399.csv,Sri Lanka,Pakistan,2023-10-10
+dt\csv3\1384401.csv,South Africa,Australia,2023-10-12
+dt\csv3\1384402.csv,Bangladesh,New Zealand,2023-10-13
+dt\csv3\1384403.csv,Pakistan,India,2023-10-14
+dt\csv3\1384405.csv,Sri Lanka,Australia,2023-10-16
+dt\csv3\1384406.csv,Netherlands,South Africa,2023-10-17
+dt\csv3\1384408.csv,Bangladesh,India,2023-10-19
+dt\csv3\1384409.csv,Australia,Pakistan,2023-10-20
+dt\csv3\1384410.csv,Netherlands,Sri Lanka,2023-10-21
+dt\csv3\1384411.csv,South Africa,England,2023-10-21
+dt\csv3\1384412.csv,New Zealand,India,2023-10-22
+dt\csv3\1384414.csv,South Africa,Bangladesh,2023-10-24
+dt\csv3\1384415.csv,Australia,Netherlands,2023-10-25
+dt\csv3\1384416.csv,England,Sri Lanka,2023-10-26
+dt\csv3\1384417.csv,Pakistan,South Africa,2023-10-27
+dt\csv3\1384418.csv,Australia,New Zealand,2023-10-28
+dt\csv3\1384419.csv,Netherlands,Bangladesh,2023-10-28
+dt\csv3\1384420.csv,India,England,2023-10-29
+dt\csv3\1384422.csv,Bangladesh,Pakistan,2023-10-31
+dt\csv3\1384423.csv,South Africa,New Zealand,2023-11-01
+dt\csv3\1384424.csv,India,Sri Lanka,2023-11-02
+dt\csv3\1384426.csv,New Zealand,Pakistan,2023-11-04
+dt\csv3\1384427.csv,Australia,England,2023-11-04
+dt\csv3\1384428.csv,India,South Africa,2023-11-05
+dt\csv3\1384429.csv,Sri Lanka,Bangladesh,2023-11-06
+dt\csv3\1384431.csv,England,Netherlands,2023-11-08
+dt\csv3\1384432.csv,Sri Lanka,New Zealand,2023-11-09
+dt\csv3\1384434.csv,Bangladesh,Australia,2023-11-11
+dt\csv3\1384435.csv,England,Pakistan,2023-11-11
+dt\csv3\1384436.csv,India,Netherlands,2023-11-12
+dt\csv3\1384437.csv,India,New Zealand,2023-11-15
+dt\csv3\1384438.csv,South Africa,Australia,2023-11-16
+dt\csv3\1384439.csv,India,Australia,2023-11-19
+dt\csv3\1385700.csv,England,Australia,2024-09-19
+dt\csv3\1385701.csv,Australia,England,2024-09-21
+dt\csv3\1385702.csv,Australia,England,2024-09-24
+dt\csv3\1385703.csv,England,Australia,2024-09-27
+dt\csv3\1385704.csv,England,Australia,2024-09-29
+dt\csv3\1387600.csv,South Africa,India,2023-12-17
+dt\csv3\1387601.csv,India,South Africa,2023-12-19
+dt\csv3\1387602.csv,India,South Africa,2023-12-21
+dt\csv3\1388211.csv,Bangladesh,New Zealand,2023-12-20
+dt\csv3\1388212.csv,New Zealand,Bangladesh,2023-12-23
+dt\csv3\1388392.csv,Pakistan,Nepal,2023-08-30
+dt\csv3\1388393.csv,Bangladesh,Sri Lanka,2023-08-31
+dt\csv3\1388394.csv,India,Pakistan,2023-09-02
+dt\csv3\1388398.csv,Nepal,India,2023-09-04
+dt\csv3\1388401.csv,Bangladesh,Pakistan,2023-09-06
+dt\csv3\1388403.csv,Sri Lanka,Bangladesh,2023-09-09
+dt\csv3\1388406.csv,India,Pakistan,2023-09-10
+dt\csv3\1388407.csv,India,Sri Lanka,2023-09-12
+dt\csv3\1388410.csv,Pakistan,Sri Lanka,2023-09-14
+dt\csv3\1388412.csv,Bangladesh,India,2023-09-15
+dt\csv3\1388414.csv,Sri Lanka,India,2023-09-17
+dt\csv3\1389388.csv,Australia,India,2023-09-22
+dt\csv3\1389389.csv,India,Australia,2023-09-24
+dt\csv3\1389390.csv,Australia,India,2023-09-27
+dt\csv3\1395700.csv,New Zealand,Bangladesh,2023-09-21
+dt\csv3\1395701.csv,New Zealand,Bangladesh,2023-09-23
+dt\csv3\1395702.csv,Bangladesh,New Zealand,2023-09-26
+dt\csv3\1408102.csv,New Zealand,Bangladesh,2023-12-17
+dt\csv3\1408106.csv,Zimbabwe,Ireland,2023-12-13
+dt\csv3\1408107.csv,Zimbabwe,Ireland,2023-12-15
+dt\csv3\1408108.csv,Zimbabwe,Ireland,2023-12-17
+dt\csv3\1412539.csv,Sri Lanka,Zimbabwe,2024-01-06
+dt\csv3\1412540.csv,Zimbabwe,Sri Lanka,2024-01-08
+dt\csv3\1412541.csv,Zimbabwe,Sri Lanka,2024-01-11
+dt\csv3\1419827.csv,Sri Lanka,Bangladesh,2024-03-13
+dt\csv3\1419828.csv,Bangladesh,Sri Lanka,2024-03-15
+dt\csv3\1419829.csv,Sri Lanka,Bangladesh,2024-03-18
+dt\csv3\1420220.csv,Nepal,Canada,2024-02-08
+dt\csv3\1420221.csv,Canada,Nepal,2024-02-10
+dt\csv3\1420222.csv,Canada,Nepal,2024-02-12
+dt\csv3\1420529.csv,Nepal,Namibia,2024-02-15
+dt\csv3\1420530.csv,Netherlands,Nepal,2024-02-17
+dt\csv3\1420531.csv,Namibia,Netherlands,2024-02-19
+dt\csv3\1420532.csv,Nepal,Namibia,2024-02-21
+dt\csv3\1420533.csv,Namibia,Netherlands,2024-02-23
+dt\csv3\1420534.csv,Nepal,Netherlands,2024-02-25
+dt\csv3\1421069.csv,United Arab Emirates,Canada,2024-02-28
+dt\csv3\1421070.csv,Scotland,Canada,2024-03-01
+dt\csv3\1421071.csv,United Arab Emirates,Scotland,2024-03-03
+dt\csv3\1421072.csv,Canada,United Arab Emirates,2024-03-05
+dt\csv3\1421073.csv,Scotland,Canada,2024-03-07
+dt\csv3\1426549.csv,Pakistan,Australia,2024-11-04
+dt\csv3\1426550.csv,Australia,Pakistan,2024-11-08
+dt\csv3\1426551.csv,Australia,Pakistan,2024-11-10
+dt\csv3\1428956.csv,Oman,Scotland,2024-07-16
+dt\csv3\1428957.csv,Oman,Namibia,2024-07-18
+dt\csv3\1428958.csv,Scotland,Namibia,2024-07-20
+dt\csv3\1428959.csv,Oman,Scotland,2024-07-22
+dt\csv3\1428960.csv,Namibia,Oman,2024-07-24
+dt\csv3\1428961.csv,Scotland,Namibia,2024-07-26
+dt\csv3\1431088.csv,South Africa,Ireland,2024-10-02
+dt\csv3\1431089.csv,South Africa,Ireland,2024-10-04
+dt\csv3\1431090.csv,Ireland,South Africa,2024-10-07
+dt\csv3\1433370.csv,England,West Indies,2024-10-31
+dt\csv3\1433371.csv,West Indies,England,2024-11-02
+dt\csv3\1433372.csv,England,West Indies,2024-11-06
+dt\csv3\1442990.csv,Sri Lanka,India,2024-08-02
+dt\csv3\1442991.csv,Sri Lanka,India,2024-08-04
+dt\csv3\1442992.csv,Sri Lanka,India,2024-08-07
+dt\csv3\1444649.csv,Zimbabwe,Pakistan,2024-11-24
+dt\csv3\1444650.csv,Zimbabwe,Pakistan,2024-11-26
+dt\csv3\1445034.csv,Canada,Netherlands,2024-08-11
+dt\csv3\1445035.csv,United States of America,Canada,2024-08-13
+dt\csv3\1445036.csv,Netherlands,United States of America,2024-08-15
+dt\csv3\1445037.csv,Netherlands,Canada,2024-08-17
+dt\csv3\1445038.csv,United States of America,Canada,2024-08-19
+dt\csv3\1445039.csv,Netherlands,United States of America,2024-08-21
+dt\csv3\1450690.csv,Namibia,United States of America,2024-09-16
+dt\csv3\1450691.csv,United Arab Emirates,United States of America,2024-09-18
+dt\csv3\1450692.csv,Namibia,United Arab Emirates,2024-09-20
+dt\csv3\1450693.csv,Namibia,United States of America,2024-09-22
+dt\csv3\1450694.csv,United States of America,United Arab Emirates,2024-09-24
+dt\csv3\1450695.csv,United Arab Emirates,Namibia,2024-09-26
+dt\csv3\1450696.csv,Canada,Nepal,2024-09-16
+dt\csv3\1450697.csv,Nepal,Oman,2024-09-18
+dt\csv3\1450698.csv,Canada,Oman,2024-09-20
+dt\csv3\1450699.csv,Nepal,Canada,2024-09-22
+dt\csv3\1450701.csv,Oman,Canada,2024-09-26
+dt\csv3\1450702.csv,United States of America,Scotland,2024-10-25
+dt\csv3\1450704.csv,Scotland,Nepal,2024-10-29
+dt\csv3\1450705.csv,Scotland,United States of America,2024-10-31
+dt\csv3\1450706.csv,United States of America,Nepal,2024-11-02
+dt\csv3\1450707.csv,Nepal,Scotland,2024-11-04
+dt\csv3\1451817.csv,West Indies,Sri Lanka,2024-10-20
+dt\csv3\1451818.csv,West Indies,Sri Lanka,2024-10-23
+dt\csv3\1451819.csv,Sri Lanka,West Indies,2024-10-26
+dt\csv3\1456443.csv,Sri Lanka,New Zealand,2024-11-13
+dt\csv3\1456444.csv,New Zealand,Sri Lanka,2024-11-17
+dt\csv3\1456445.csv,New Zealand,Sri Lanka,2024-11-19
+dt\csv3\1457464.csv,United Arab Emirates,Oman,2024-11-01
+dt\csv3\1457465.csv,United Arab Emirates,Netherlands,2024-11-03
+dt\csv3\1457466.csv,Netherlands,Oman,2024-11-05
+dt\csv3\1457467.csv,United Arab Emirates,Oman,2024-11-07
+dt\csv3\1457468.csv,Netherlands,United Arab Emirates,2024-11-09
+dt\csv3\1457469.csv,Oman,Netherlands,2024-11-11
