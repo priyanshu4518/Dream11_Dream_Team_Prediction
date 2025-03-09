@@ -11,6 +11,7 @@ Welcome to the Dream11 Cricket Prediction Project, an advanced end-to-end soluti
 - [🤓 Modeling](#modeling)
 - [🔮 Prediction Pipeline](#prediction-pipeline)
 - [🔢 Evaluation Metrics](#evaluation-metrics)
+- [📹Video Demo](#video-demo)
 - [🌐 Deployment](#deployment)
 - [🏁 Conclusion](#conclusion)
 - [📝 License](#license)
